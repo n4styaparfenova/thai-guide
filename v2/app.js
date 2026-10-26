@@ -44,7 +44,7 @@
     { id: "art", name: "Арт и события", emoji: "🎨", cats: ["art", "events"], c: "#3a4a6b" },
     { id: "park", name: "Парки и природа", emoji: "🌳", cats: ["park", "nature"], c: "#2f5d50" },
     { id: "sweets", name: "Сладкое", emoji: "🍰", cats: ["sweets"], c: "#d8c7a6", t: "#161514" },
-    { id: "spa", name: "Спа и восстановление", emoji: "🧖", cats: ["spa"], c: "#8a7a62" },
+    { id: "shopping", name: "Шопинг", emoji: "🛍", cats: ["shopping"], c: "#8a7a62" },
     { id: "beach", name: "Пляжи и острова", emoji: "🏝", cats: ["beach"], c: "#2c6e8f" },
     { id: "daytrip", name: "На день из Бангкока", emoji: "🚗", cats: ["daytrip"], c: "#5b6b3a" },
     { id: "classic", name: "Классика", emoji: "🛕", cats: ["culture"], c: "#4a4440" },
