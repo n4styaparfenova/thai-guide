@@ -1248,6 +1248,7 @@
     "related": [
       "tep-bar",
       "god-bar",
+      "teens-of-thailand",
       "tax-bar",
       "wallflowers-cafe",
       "yaowarat-chinatown"
@@ -1430,6 +1431,52 @@
     "related_title": "Вся улица",
     "unverified": [
       "Часы и цены в источниках расходятся"
+    ]
+  },
+  {
+    "id": "teens-of-thailand",
+    "city": "bangkok",
+    "name": "Teens of Thailand",
+    "name_en": "Teens of Thailand",
+    "district": "Сой Нана, Чайна-таун",
+    "categories": [
+      "bar"
+    ],
+    "tags": [
+      "night",
+      "instagram"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Маленький джин-бар, в котором делают необычные коктейли на джине",
+    "note": "Маленький джин-бар, в котором делают необычные коктейли на джине",
+    "description": "Бар, который специализируется на джине. У этого напитка интересная история, а здесь делают много разных вариаций коктейлей с джином. Очень необычно, и само заведение выглядит здорово. Его не раз включали в список 50 лучших баров Азии.",
+    "tip": "Бар совсем маленький, всего около 15 мест, так что лучше бронировать заранее или приходить к открытию. Меню меняется, загляни на доску у бара.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Коктейли примерно 350–450 ฿",
+    "hours": "Вечером примерно с 19:00 до 00:00–01:00, в понедельник может быть закрыт",
+    "duration": "1–1,5 часа",
+    "best_time": "Вечер, к открытию",
+    "how_to_get": "MRT Wat Mangkon или Hua Lamphong, 5–10 минут пешком. Адрес: 76 Soi Nana",
+    "nuances": null,
+    "website": null,
+    "instagram": null,
+    "lat": 13.7397,
+    "lng": 100.5142,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Teens%20of%20Thailand%2013.7397%2C100.5142",
+    "photos": [],
+    "related": [
+      "soi-nana-chinatown"
+    ],
+    "related_title": "Вся улица",
+    "checked": "2026-10",
+    "unverified": [
+      "Часы и выходной в источниках расходятся",
+      "Цены по старым данным",
+      "Координаты приблизительные"
     ]
   }
 ]
