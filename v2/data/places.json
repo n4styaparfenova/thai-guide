@@ -635,5 +635,164 @@
     "related_title": "Можно дойти пешком по мосту",
     "checked": "2026-10",
     "unverified": []
+  },
+  {
+    "id": "qsncc",
+    "city": "bangkok",
+    "name": "Конференц-центр Queen Sirikit",
+    "name_en": "Queen Sirikit National Convention Center (QSNCC)",
+    "district": "Клонгтой, у парка Бенчакитти",
+    "categories": [
+      "events"
+    ],
+    "tags": [
+      "rain"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "long",
+    "stamp": null,
+    "short": "Конференц-центр у парка Бенчакитти, где проходят выставки, конференции и концерты",
+    "note": "Конференц-центр у парка Бенчакитти, где проходят выставки, конференции и концерты",
+    "description": "Большой конференц-центр прямо у парка Бенчакитти. Здесь постоянно проходят выставки, конференции, ярмарки, иногда концерты. Это точно не обязательное место, но если любишь такие мероприятия, загляни в афишу: вдруг что-то совпадёт с твоей поездкой.\n\nА ещё внутри можно поесть, выпить кофе и переждать жару, если гуляешь по Бенчакитти.",
+    "tip": "Афишу смотри на сайте qsncc.com. На многие выставки нужна регистрация или билет, поэтому лучше проверить заранее.",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Зависит от мероприятия: бывает бесплатно, бывает по билетам",
+    "hours": "Зависит от мероприятия",
+    "duration": null,
+    "best_time": null,
+    "how_to_get": "MRT Queen Sirikit National Convention Centre, выход прямо к зданию",
+    "nuances": null,
+    "website": "https://www.qsncc.com/en",
+    "instagram": null,
+    "lat": 13.7236,
+    "lng": 100.5597,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Queen%20Sirikit%20National%20Convention%20Center%2013.7236%2C100.5597",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Queen_Sirikit_National_Convention_Center%2CBangkok_%285%29.jpg/1280px-Queen_Sirikit_National_Convention_Center%2CBangkok_%285%29.jpg",
+        "credit": "กสิณธร ราชโอรส / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/202307_Queen_Sirikit_National_Convention_Center_02.jpg/1280px-202307_Queen_Sirikit_National_Convention_Center_02.jpg",
+        "credit": "Jonashtand / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "benjakitti-park"
+    ],
+    "related_title": "Рядом",
+    "checked": "2026-10",
+    "unverified": []
+  },
+  {
+    "id": "dusit-central-park-mall",
+    "city": "bangkok",
+    "name": "ТЦ Dusit Central Park",
+    "name_en": "Dusit Central Park",
+    "district": "Силом, напротив Люмпини",
+    "categories": [
+      "shopping"
+    ],
+    "tags": [
+      "rain"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "long",
+    "stamp": null,
+    "short": "Торговый центр напротив Люмпини, в котором много местных тайских брендов",
+    "note": "Торговый центр напротив Люмпини, в котором много местных тайских брендов",
+    "description": "Торговый центр напротив парка Люмпини. Сам по себе он обычный, но здесь много местных тайских брендов, так что если будешь рядом, можно зайти по пути. А вот за шопингом в популярных сетевых магазинах я бы посоветовала другие торговые центры.\n\nГлавное здесь — парк на крыше, о нём отдельная карточка.",
+    "tip": "Если идёшь в парк на крыше, загляни по пути на этажи с тайскими брендами: там бывают интересные вещи, которых нет в обычных сетевых магазинах.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Вход свободный",
+    "hours": "Ежедневно примерно 10:00–22:00",
+    "duration": "1 час",
+    "best_time": null,
+    "how_to_get": "BTS Sala Daeng или MRT Silom, крытый переход прямо в здание",
+    "nuances": null,
+    "website": null,
+    "instagram": null,
+    "lat": 13.7287,
+    "lng": 100.5376,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Dusit%20Central%20Park%2013.7287%2C100.5376",
+    "photos": [],
+    "related": [
+      "dusit-arun-roof-park",
+      "lumpini-park"
+    ],
+    "related_title": "В этом же здании и рядом",
+    "checked": "2026-10",
+    "unverified": [
+      "Часы работы ТЦ — типовые, не проверены"
+    ]
+  },
+  {
+    "id": "dusit-arun-roof-park",
+    "city": "bangkok",
+    "name": "Парк на крыше Dusit Central Park",
+    "name_en": "Dusit Arun Roof Park",
+    "district": "Силом, напротив Люмпини",
+    "categories": [
+      "park",
+      "view"
+    ],
+    "tags": [
+      "free",
+      "instagram",
+      "sunset",
+      "romantic"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Парк на крыше торгового центра с видом на Люмпини и высотки, как на Манхэттене",
+    "note": "Парк на крыше торгового центра с видом на Люмпини и высотки, как на Манхэттене",
+    "description": "Наверху, на крыше торгового центра Dusit Central Park, находится парк. Это очень инстаграмная локация: красивые дорожки, много зелени, а вид открывается на парк Люмпини и знаменитые высотки Бангкока. Прям Нью-Йорк, такие манхэттенские вайбы. Кстати, это самый большой парк на крыше в Таиланде.\n\nЗдесь можно и посидеть, и погулять, есть кофейни, где можно спрятаться, если начнётся дождь. Наверху есть фонтан, и часто играют музыканты. Очень красиво и днём, и вечером.",
+    "tip": "Приходи ближе к вечеру: застанешь и дневной вид на Люмпини, и то, как зажигаются огни высоток.",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Вход бесплатный",
+    "hours": "Ежедневно 6:00–22:00",
+    "duration": "1 час",
+    "best_time": "Днём или вечером, когда зажигаются огни высоток",
+    "how_to_get": "BTS Sala Daeng или MRT Silom, переход в Dusit Central Park и наверх на лифте",
+    "nuances": null,
+    "website": null,
+    "instagram": null,
+    "lat": 13.7287,
+    "lng": 100.5376,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Dusit%20Arun%20Dusit%20Central%20Park%2013.7287%2C100.5376",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_05.jpg/1280px-Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_05.jpg",
+        "credit": "Chainwit. / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_20.jpg/1280px-Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_20.jpg",
+        "credit": "Chainwit. / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_11.jpg/1280px-Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_11.jpg",
+        "credit": "Chainwit. / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_17.jpg/1280px-Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_17.jpg",
+        "credit": "Chainwit. / CC BY 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "dusit-central-park-mall",
+      "lumpini-park"
+    ],
+    "related_title": "В этом же здании и рядом",
+    "checked": "2026-10",
+    "unverified": [
+      "Бесплатный вход — по описаниям открытия 2025"
+    ]
   }
 ]

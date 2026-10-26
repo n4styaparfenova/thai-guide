@@ -13,6 +13,7 @@
     cafe: { name: "Кофейни", emoji: "☕" },
     sweets: { name: "Сладкое", emoji: "🍰" },
     art: { name: "Арт", emoji: "🎨" },
+    events: { name: "События", emoji: "🎟" },
     view: { name: "Виды сверху", emoji: "🏙" },
     restaurant: { name: "Рестораны", emoji: "🍽" },
     bar: { name: "Бары и руфтопы", emoji: "🍸" },
@@ -25,6 +26,7 @@
     active: { name: "Активности", emoji: "🚤" },
   };
   const TAGS = [
+    { id: "instagram", name: "инстаграмно", emoji: "📸" },
     { id: "laptop", name: "можно поработать", emoji: "💻" },
     { id: "free", name: "бесплатно", emoji: "🆓" },
     { id: "sunset", name: "закат", emoji: "🌅" },
@@ -39,7 +41,7 @@
     { id: "eat", name: "Где поесть", emoji: "🍽", cats: ["restaurant", "food"], c: "#7a3b2e" },
     { id: "bar", name: "Бары и руфтопы", emoji: "🍸", cats: ["bar", "party"], c: "#1f1d1b" },
     { id: "view", name: "Виды сверху", emoji: "🏙", cats: ["view"], c: "#26415e" },
-    { id: "art", name: "Арт и творчество", emoji: "🎨", cats: ["art"], c: "#3a4a6b" },
+    { id: "art", name: "Арт и события", emoji: "🎨", cats: ["art", "events"], c: "#3a4a6b" },
     { id: "park", name: "Парки и природа", emoji: "🌳", cats: ["park", "nature"], c: "#2f5d50" },
     { id: "sweets", name: "Сладкое", emoji: "🍰", cats: ["sweets"], c: "#d8c7a6", t: "#161514" },
     { id: "spa", name: "Спа и восстановление", emoji: "🧖", cats: ["spa"], c: "#8a7a62" },
