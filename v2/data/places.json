@@ -465,7 +465,11 @@
     "unverified": [
       "Понедельник как выходной у уличных лавок — общеизвестно, официально не подтверждено",
       "Часы лавки с булочками: в источниках 18:00–22:30 или 19:00–00:00, понедельник выходной"
-    ]
+    ],
+    "related": [
+      "soi-nana-chinatown"
+    ],
+    "related_title": "Рядом: барная улица"
   },
   {
     "id": "erawan-museum",
@@ -1197,6 +1201,235 @@
     "checked": "2026-10",
     "unverified": [
       "Часы и цена шаттла в источниках расходятся"
+    ]
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "checked": "2026-10",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Yaowarat_Road_at_night.jpg/1280px-Yaowarat_Road_at_night.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons) — соседняя улица Яоварат"
+      }
+    ],
+    "id": "soi-nana-chinatown",
+    "name": "Сой Нана в Чайна-тауне",
+    "name_en": "Soi Nana, Chinatown",
+    "district": "Чайна-таун, Пхомпрап",
+    "categories": [
+      "bar",
+      "party",
+      "food"
+    ],
+    "tags": [
+      "night"
+    ],
+    "priority": "time",
+    "stamp": null,
+    "short": "Оживлённая улочка Чайна-тауна, на которой один за другим идут бары и рестораны",
+    "note": "Оживлённая улочка Чайна-тауна, на которой один за другим идут бары и рестораны",
+    "description": "Небольшая оживлённая улочка рядом с Чайна-тауном, а по сути его часть, где один за другим идут бары и рестораны. Чем-то похоже на Китай-город в Москве. Заведений здесь огромное множество, так что можно просто прийти вечером и переходить из одного в другое.\n\nНиже несколько мест, где я была сама. Не путай с Сой Нана на Сукхумвите: это совсем другой район.",
+    "tip": "Приходи вечером, после 19:00, когда открываются бары, и не планируй одно место: здесь интереснее обойти несколько.",
+    "price_level": 2,
+    "price_text": "Коктейли примерно 300–600 ฿",
+    "hours": "Бары работают в основном с 17:00–19:00 до 01:00",
+    "duration": "Весь вечер",
+    "best_time": "Вечер",
+    "how_to_get": "MRT Wat Mangkon или Hua Lamphong, 5–7 минут пешком до Сой Нана",
+    "nuances": null,
+    "instagram": null,
+    "lat": 13.7398522,
+    "lng": 100.5140294,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Soi%20Nana%20Chinatown%2013.7398522%2C100.5140294",
+    "related": [
+      "tep-bar",
+      "god-bar",
+      "tax-bar",
+      "wallflowers-cafe",
+      "yaowarat-chinatown"
+    ],
+    "related_title": "Мои места рядом",
+    "unverified": []
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "checked": "2026-10",
+    "photos": [],
+    "id": "tep-bar",
+    "name": "TEP BAR",
+    "name_en": "TEP BAR – Cultural Bar of Thailand",
+    "district": "Сой Нана, Чайна-таун",
+    "categories": [
+      "bar",
+      "restaurant",
+      "culture"
+    ],
+    "tags": [
+      "night"
+    ],
+    "priority": "time",
+    "stamp": "для души",
+    "short": "Бар с тайской кухней в современной подаче и живой традиционной музыкой",
+    "note": "Бар с тайской кухней в современной подаче и живой традиционной музыкой",
+    "description": "Бар с традиционной тайской кухней в необычной современной подаче. Вечером здесь играет живая музыка на тайских инструментах, настоящая аутентичная тайская музыка. Мне очень понравилось, очень советую.",
+    "tip": "Вывески почти нет, так что ориентируйся на музыку. В популярные вечера лучше забронировать столик.",
+    "price_level": 2,
+    "price_text": "Коктейли 300–400 ฿",
+    "hours": "Вт–Вс 17:00–00:00 (Пт–Сб до 01:00)",
+    "duration": "2–3 часа",
+    "best_time": "Вечер, когда играет музыка",
+    "how_to_get": "MRT Wat Mangkon или Hua Lamphong, 5–7 минут пешком до Сой Нана",
+    "nuances": null,
+    "instagram": null,
+    "lat": 13.739674899999999,
+    "lng": 100.5144313,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=TEP%20BAR%2013.739674899999999%2C100.5144313",
+    "related": [
+      "soi-nana-chinatown"
+    ],
+    "related_title": "Вся улица",
+    "unverified": [
+      "Часы работы по старым данным"
+    ]
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "checked": "2026-10",
+    "photos": [],
+    "id": "god-bar",
+    "name": "G.O.D.",
+    "name_en": "G.O.D. (Genius On Drugs)",
+    "district": "Чайна-таун, рядом с Сой Нана",
+    "categories": [
+      "bar"
+    ],
+    "tags": [
+      "night",
+      "instagram"
+    ],
+    "priority": "time",
+    "stamp": "мой фаворит",
+    "short": "Роскошный коктейль-бар с интерьером в духе готического собора",
+    "note": "Роскошный коктейль-бар с интерьером в духе готического собора",
+    "description": "Супер нишевый, но роскошный коктейль-бар, который мне очень нравится. Интерьер необычный: высокие потолки, витражи и металлические трубы, похожие на встроенный в стену орган. Всё очень стильно и при этом совсем не похоже на другие бары.",
+    "tip": "Попробуй фирменный Uni Martini с морским ежом: к нему подают маленькую закуску, и бармены расскажут, в каком порядке всё есть.",
+    "price_level": 3,
+    "price_text": "Коктейли примерно от 500 ฿",
+    "hours": "Ежедневно 19:00–01:00",
+    "duration": "1,5–2 часа",
+    "best_time": "Вечер",
+    "how_to_get": "MRT Wat Mangkon, 5–7 минут пешком. Адрес: 25/27 Soi Rammaitree",
+    "nuances": null,
+    "instagram": "https://www.instagram.com/god_bkk",
+    "lat": 13.7393,
+    "lng": 100.5137,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=G.O.D.%20bar%20Soi%20Rammaitree%20Bangkok%2013.7393%2C100.5137",
+    "related": [
+      "soi-nana-chinatown"
+    ],
+    "related_title": "Вся улица",
+    "unverified": [
+      "Координаты приблизительные",
+      "Время закрытия: 01:00 или 01:30"
+    ]
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "checked": "2026-10",
+    "photos": [],
+    "id": "tax-bar",
+    "name": "TAX",
+    "name_en": "TAX",
+    "district": "Сой Нана, Чайна-таун",
+    "categories": [
+      "bar"
+    ],
+    "tags": [
+      "night",
+      "instagram"
+    ],
+    "priority": "long",
+    "stamp": null,
+    "short": "Бар с коктейлями и закусками из насекомых для самых смелых",
+    "note": "Бар с коктейлями и закусками из насекомых для самых смелых",
+    "description": "Супер необычное место, куда я попала случайно. Здесь подают напитки и блюда из насекомых. Это очень странно и очень необычно, так что бар скорее для экспериментаторов или для тех, кто хочет снять обзор для соцсетей.",
+    "tip": "Ищи вывеску «Nothing is certain but death & tax»: бар сделан в стиле спикизи, и с улицы его легко пропустить.",
+    "price_level": 2,
+    "price_text": "Коктейли от 420 ฿",
+    "hours": "Ежедневно 19:00–01:00",
+    "duration": "1 час",
+    "best_time": "Вечер",
+    "how_to_get": "MRT Wat Mangkon или Hua Lamphong, 5–7 минут пешком до Сой Нана",
+    "nuances": null,
+    "instagram": null,
+    "lat": 13.7396976,
+    "lng": 100.51479599999999,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=TAX%20bar%20Chinatown%2013.7396976%2C100.51479599999999",
+    "related": [
+      "soi-nana-chinatown"
+    ],
+    "related_title": "Вся улица",
+    "unverified": []
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "checked": "2026-10",
+    "photos": [],
+    "id": "wallflowers-cafe",
+    "name": "Wallflowers Cafe",
+    "name_en": "Wallflowers Cafe",
+    "district": "Сой Нана, Чайна-таун",
+    "categories": [
+      "cafe",
+      "sweets",
+      "bar"
+    ],
+    "tags": [
+      "instagram"
+    ],
+    "priority": "long",
+    "stamp": null,
+    "short": "Кафе-цветочный магазин в старом доме, в котором вечером наверху открывается бар",
+    "note": "Кафе-цветочный магазин в старом доме, в котором вечером наверху открывается бар",
+    "description": "Кафе и цветочный магазин в старом шопхаусе: деревянная лестница, сухоцветы под потолком, винтажная мебель. Днём здесь пьют чай с домашними тортами, а вечером наверху открывается бар Wallflowers Upstairs с живой музыкой и видом на крыши Чайна-тауна.",
+    "tip": "Днём заходи на чай с тортом, а вечером поднимайся в бар наверху: получается два разных места в одном доме.",
+    "price_level": 2,
+    "price_text": "Торт и напиток 250–400 ฿, коктейли около 350–450 ฿",
+    "hours": "Кафе ~10:30–20:00, бар Upstairs 18:00–01:00",
+    "duration": "1–2 часа",
+    "best_time": "День в кафе или вечер в баре наверху",
+    "how_to_get": "MRT Wat Mangkon или Hua Lamphong, 5–7 минут пешком до Сой Нана",
+    "nuances": null,
+    "instagram": null,
+    "lat": 13.739860799999999,
+    "lng": 100.5141338,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Wallflowers%20Cafe%20Bangkok%2013.739860799999999%2C100.5141338",
+    "related": [
+      "soi-nana-chinatown"
+    ],
+    "related_title": "Вся улица",
+    "unverified": [
+      "Часы и цены в источниках расходятся"
     ]
   }
 ]
