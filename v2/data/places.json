@@ -784,7 +784,7 @@
     "how_to_get": "BTS Sala Daeng или MRT Silom, переход в Dusit Central Park, лифт на 44-й этаж",
     "nuances": "На входе могут попросить депозит около 600 ฿, но он полностью засчитывается в напитки. Одеться лучше стильно: шорты и шлёпанцы точно не подойдут.",
     "website": "https://aetherbkk.com",
-    "instagram": null,
+    "instagram": "https://www.instagram.com/aether_bkk",
     "lat": 13.7284823,
     "lng": 100.5369435,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=AETHER%20BKK%2013.7284823%2C100.5369435",
@@ -832,15 +832,14 @@
     "how_to_get": "BTS Phrom Phong, переход в ТЦ EmSphere, лифт на крышу",
     "nuances": "Купальник бери с собой, полотенца выдают на месте. По отзывам, чтобы поплавать, может понадобиться столик у бассейна с депозитом примерно от 2 000 ฿, так что лучше уточнить это заранее. Пул-пати проходят по отдельным билетам.",
     "website": null,
-    "instagram": null,
+    "instagram": "https://www.instagram.com/tribeskybeachclub",
     "lat": 13.73199,
     "lng": 100.5666814,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=TRIBE%20Sky%20Beach%20Club%2013.73199%2C100.5666814",
     "photos": [],
     "checked": "2026-10",
     "unverified": [
-      "Доступ к бассейну без депозита — по отзывам может быть закрыт",
-      "Instagram не подтверждён"
+      "Доступ к бассейну без депозита — по отзывам может быть закрыт"
     ]
   }
 ]
