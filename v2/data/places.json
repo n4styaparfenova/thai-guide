@@ -6,6 +6,7 @@
     "name_en": "King Power Mahanakhon SkyWalk",
     "district": "Силом, BTS Chong Nonsi",
     "categories": [
+      "culture",
       "view"
     ],
     "tags": [
@@ -1271,8 +1272,7 @@
     "district": "Сой Нана, Чайна-таун",
     "categories": [
       "bar",
-      "restaurant",
-      "culture"
+      "restaurant"
     ],
     "tags": [
       "night"

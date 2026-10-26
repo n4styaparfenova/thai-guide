@@ -6,7 +6,7 @@
   const inTelegram = !!(tg && tg.platform && tg.platform !== "unknown");
 
   const CATEGORIES = {
-    culture: { name: "Классика и храмы", emoji: "🛕" },
+    culture: { name: "Достопримечательности", emoji: "🛕" },
     beach: { name: "Пляжи", emoji: "🏝" },
     nature: { name: "Природа", emoji: "🌿" },
     park: { name: "Парки", emoji: "🌳" },
@@ -40,14 +40,13 @@
     { id: "cafe", name: "Кофейни", emoji: "☕", cats: ["cafe"], c: "#e0531f" },
     { id: "eat", name: "Где поесть", emoji: "🍽", cats: ["restaurant", "food"], c: "#7a3b2e" },
     { id: "bar", name: "Бары и руфтопы", emoji: "🍸", cats: ["bar", "party"], c: "#1f1d1b" },
-    { id: "view", name: "Виды сверху", emoji: "🏙", cats: ["view"], c: "#26415e" },
     { id: "art", name: "Арт и события", emoji: "🎨", cats: ["art", "events"], c: "#3a4a6b" },
     { id: "park", name: "Парки и природа", emoji: "🌳", cats: ["park", "nature"], c: "#2f5d50" },
     { id: "sweets", name: "Сладкое", emoji: "🍰", cats: ["sweets"], c: "#d8c7a6", t: "#161514" },
     { id: "shopping", name: "Шопинг", emoji: "🛍", cats: ["shopping"], c: "#8a7a62" },
     { id: "beach", name: "Пляжи и острова", emoji: "🏝", cats: ["beach"], c: "#2c6e8f" },
     { id: "daytrip", name: "На день из Бангкока", emoji: "🚗", cats: ["daytrip"], c: "#5b6b3a" },
-    { id: "classic", name: "Классика", emoji: "🛕", cats: ["culture"], c: "#4a4440" },
+    { id: "classic", name: "Достопримечательности", emoji: "🛕", cats: ["culture"], c: "#4a4440" },
   ];
   const STAMP_COLORS = {
     "мой фаворит": "#e0531f", "must see": "#3a4a6b", "для души": "#2f5d50",
