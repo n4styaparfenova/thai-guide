@@ -841,5 +841,110 @@
     "unverified": [
       "Доступ к бассейну без депозита — по отзывам может быть закрыт"
     ]
+  },
+  {
+    "id": "nobu-bangkok",
+    "city": "bangkok",
+    "name": "Nobu",
+    "name_en": "Nobu Bangkok",
+    "district": "Сатхорн, небоскрёб The Empire",
+    "categories": [
+      "restaurant",
+      "bar",
+      "view"
+    ],
+    "tags": [
+      "night",
+      "sunset",
+      "romantic"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Ресторан знаменитой сети Nobu на верхних этажах The Empire с руфтоп-баром",
+    "note": "Ресторан знаменитой сети Nobu на верхних этажах The Empire с руфтоп-баром",
+    "description": "Ресторан знаменитой сети Nobu, которую основали японский шеф Нобу Мацухиса и актёр Роберт Де Ниро. Сеть известна во всём мире, её очень любят знаменитости, а бангкокский Nobu — самый высокий из всех: он находится на верхних этажах небоскрёба The Empire.\n\nВнизу ресторанная часть, где обедают и ужинают, а на лифте можно подняться выше, на руфтоп. Там в основном пьют коктейли и отдыхают на свежем воздухе. Вид, конечно, очень крутой. Честно скажу, коктейль мне не очень понравился, правда, я пробовала только один.",
+    "tip": "Даже если не планируешь ужинать, можно подняться на руфтоп ради вида и выпить что-нибудь на свежем воздухе.",
+    "google_rating": null,
+    "price_level": 3,
+    "price_text": "Блюда от ~600 ฿, сеты от ~4 000 ฿",
+    "hours": "Ежедневно с 17:00 примерно до 00:00–01:00",
+    "duration": "2–3 часа",
+    "best_time": "Закат и вечер",
+    "how_to_get": "BTS Chong Nonsi, переход в The Empire, лифт EA Rooftop",
+    "nuances": "Бронировать лучше заранее. Одеться лучше нарядно: шорты и шлёпанцы не подойдут.",
+    "website": "https://www.noburestaurants.com/bangkok",
+    "instagram": null,
+    "lat": 13.720468,
+    "lng": 100.5301468,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Nobu%20Bangkok%2013.720468%2C100.5301468",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Empire_Tower_Bangkok.jpg/1280px-Empire_Tower_Bangkok.jpg",
+        "credit": "Supanut Arunoprayote / CC BY-SA 4.0 (Wikimedia Commons)",
+        "pos": "50% 18%"
+      }
+    ],
+    "related": [
+      "le-du-kaan"
+    ],
+    "related_title": "В этом же здании",
+    "checked": "2026-10",
+    "unverified": [
+      "Часы работы в источниках расходятся"
+    ]
+  },
+  {
+    "id": "le-du-kaan",
+    "city": "bangkok",
+    "name": "Le Du Kaan",
+    "name_en": "Le Du Kaan",
+    "district": "Сатхорн, 56-й этаж The Empire",
+    "categories": [
+      "restaurant",
+      "view"
+    ],
+    "tags": [
+      "night",
+      "sunset",
+      "romantic"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Ресторан современной тайской кухни на 56-м этаже для роскошного романтического вечера",
+    "note": "Ресторан современной тайской кухни на 56-м этаже для роскошного романтического вечера",
+    "description": "Роскошный ресторан на 56-м этаже небоскрёба The Empire. Невероятно красивый вид, приятная атмосфера, играет музыка, а кухня очень вкусная. Готовят современную тайскую кухню от шефа Тона, чей ресторан Le Du отмечен звездой Michelin.\n\nИдеальное место, чтобы провести роскошный романтический вечер.",
+    "tip": "Бронируй заранее и проси столик у окна, чтобы застать закат.",
+    "google_rating": null,
+    "price_level": 3,
+    "price_text": "Ужин примерно от 2 000 ฿ на человека",
+    "hours": "Обед 11:30–14:30, ужин с 17:00",
+    "duration": "2–3 часа",
+    "best_time": "Закат и вечер",
+    "how_to_get": "BTS Chong Nonsi, переход в The Empire, лифт EA Rooftop на 56-й этаж",
+    "nuances": "Одеться лучше нарядно: шорты и шлёпанцы не подойдут.",
+    "website": "https://www.ledukaan.com",
+    "instagram": null,
+    "lat": 13.7204935,
+    "lng": 100.5302969,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Du%20Kaan%2013.7204935%2C100.5302969",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Empire_Tower_Bangkok.jpg/1280px-Empire_Tower_Bangkok.jpg",
+        "credit": "Supanut Arunoprayote / CC BY-SA 4.0 (Wikimedia Commons)",
+        "pos": "50% 18%"
+      }
+    ],
+    "related": [
+      "nobu-bangkok"
+    ],
+    "related_title": "В этом же здании",
+    "checked": "2026-10",
+    "unverified": [
+      "Цена ориентировочная"
+    ]
   }
 ]
