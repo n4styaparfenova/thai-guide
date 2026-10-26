@@ -894,7 +894,8 @@
       }
     ],
     "related": [
-      "le-du-kaan"
+      "le-du-kaan",
+      "arabica-empire-tower"
     ],
     "related_title": "В этом же здании",
     "checked": "2026-10",
@@ -946,7 +947,8 @@
       }
     ],
     "related": [
-      "nobu-bangkok"
+      "nobu-bangkok",
+      "arabica-empire-tower"
     ],
     "related_title": "В этом же здании",
     "checked": "2026-10",
@@ -1480,5 +1482,257 @@
     "unverified": [
       "Цены по промо-предложениям, на 2026 не подтверждены"
     ]
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "nuances": null,
+    "stamp": "для работы",
+    "related": [],
+    "id": "cum-coffee-thonglor",
+    "name": "CUM Coffee",
+    "name_en": "CUM Specialty Coffee – The Office Thonglor",
+    "district": "Тонглор, коворкинг The Office",
+    "categories": [
+      "cafe"
+    ],
+    "tags": [
+      "laptop"
+    ],
+    "priority": "long",
+    "short": "Specialty-кофейня внутри коворкинга на Тонглоре, где удобно поработать",
+    "description": "Кофейня со specialty-кофе внутри коворкинга The Office Thonglor. Пространство светлое, с зонами в помещении и на улице: ротанговые кресла, белые зонтики, много солнца. Помимо классики здесь делают сезонные авторские напитки, например с юдзу или сливочным маслом, а по вечерам бывают и кофейные коктейли.\n\nРаз это коворкинг, сюда удобно прийти поработать с ноутбуком.",
+    "tip": "Загляни в сезонное меню: здесь регулярно появляются необычные лимитированные напитки.",
+    "price_level": 1,
+    "price_text": "Кофе примерно 90–180 ฿",
+    "hours": "Ежедневно примерно 8:30–19:30",
+    "duration": "1–3 часа",
+    "best_time": "Утро или день, чтобы поработать",
+    "how_to_get": "BTS Thong Lo или Ekkamai, дальше 10 минут на Grab или мотобайке. Адрес: 125/1 Soi Sukhumvit 63",
+    "lat": 13.7312178,
+    "lng": 100.5843909,
+    "unverified": [
+      "Цены ориентировочные",
+      "Время закрытия: 19:30 или 20:00"
+    ],
+    "note": "Specialty-кофейня внутри коворкинга на Тонглоре, где удобно поработать",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=CUM%20Specialty%20Coffee%20%E2%80%93%20The%20Office%20Thonglor%2013.7312178%2C100.5843909"
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "nuances": null,
+    "stamp": null,
+    "related": [
+      "le-du-kaan",
+      "nobu-bangkok"
+    ],
+    "id": "arabica-empire-tower",
+    "name": "% Arabica на 55-м этаже",
+    "name_en": "% Arabica Bangkok Empire Tower",
+    "district": "Сатхорн, 55-й этаж The Empire",
+    "categories": [
+      "cafe",
+      "view"
+    ],
+    "tags": [
+      "rain",
+      "sunset",
+      "instagram"
+    ],
+    "priority": "time",
+    "short": "Кофейня % Arabica на 55-м этаже с панорамой на весь деловой центр",
+    "description": "Кофейня японской сети % Arabica на 55-м этаже небоскрёба The Empire в Сатхорне — одна из самых высоких точек этой сети в мире. Через панорамные окна весь деловой центр Бангкока как на ладони. Кофе классический для сети: латте, спэниш-латте, эспрессо.\n\nЗал небольшой, около 20 мест, так что это место скорее за кофе с видом, чем для долгой работы.",
+    "tip": "Приходи утром в будни: к обеду и в выходные здесь собирается очередь. На 55-й этаж ведёт отдельный лифт, ищи указатели EA Rooftop.",
+    "price_level": 1,
+    "price_text": "Кофе 120–200 ฿",
+    "hours": "Ежедневно примерно 07:00–21:00",
+    "duration": "30–60 минут",
+    "best_time": "Утро в будни",
+    "how_to_get": "BTS Chong Nonsi, 5 минут пешком до Empire Tower, затем отдельный лифт на 55-й этаж",
+    "lat": 13.7205344,
+    "lng": 100.5302284,
+    "related_title": "В этом же здании",
+    "unverified": [
+      "Часы работы взяты из одного источника"
+    ],
+    "note": "Кофейня % Arabica на 55-м этаже с панорамой на весь деловой центр",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=%25%20Arabica%20Bangkok%20Empire%20Tower%2013.7205344%2C100.5302284"
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "nuances": "Понедельник выходной. К ценам добавляются сервисный сбор и VAT.",
+    "stamp": null,
+    "related": [],
+    "id": "stolen-sala",
+    "name": "Stolen Sala",
+    "name_en": "Stolen Sala Rooftop Café",
+    "district": "Плоенчит, напротив Central Embassy",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "tags": [
+      "sunset",
+      "instagram"
+    ],
+    "priority": "time",
+    "short": "Кафе на крыше напротив Central Embassy с зелёной террасой и меню на весь день",
+    "description": "Небольшое кафе-ресторан на крыше здания Canvas Ploenchit, над шоурумом Stolen Stores. Узкая зелёная терраса смотрит вдоль ветки BTS на Central Embassy. Меню на весь день: вафли с курицей, поке-боулы, асаи и тайские блюда.",
+    "tip": "Вход спрятан: ищи лифт в лобби за рестораном, вывески почти нет. Красивее всего ближе к вечеру, когда мягкий свет.",
+    "price_level": 2,
+    "price_text": "Напитки 100–180 ฿, блюда 280–520 ฿",
+    "hours": "Вт–Вс 9:00–21:00, пн выходной",
+    "duration": "1–1,5 часа",
+    "best_time": "Ближе к вечеру",
+    "how_to_get": "BTS Phloen Chit, 3–5 минут пешком; здание напротив Central Embassy",
+    "lat": 13.7432927,
+    "lng": 100.54621639999999,
+    "unverified": [
+      "Часы по обзору Phuket101 (обновлён в августе 2026)"
+    ],
+    "note": "Кафе на крыше напротив Central Embassy с зелёной террасой и меню на весь день",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Stolen%20Sala%20Rooftop%20Caf%C3%A9%2013.7432927%2C100.54621639999999"
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "nuances": null,
+    "stamp": null,
+    "related": [],
+    "id": "lazy-daisy",
+    "name": "Lazy Daisy",
+    "name_en": "Lazy Daisy Brunch and Bar",
+    "district": "Асок, Сукхумвит 16",
+    "categories": [
+      "cafe",
+      "restaurant",
+      "bar"
+    ],
+    "tags": [
+      "instagram"
+    ],
+    "priority": "long",
+    "short": "Бранч-кафе в пастельных тонах, которое вечером превращается в бар",
+    "description": "Бранч-кафе в пастельных тонах с большим количеством зелени. Днём здесь подают бенедикты (фирменный — Daisy Benedict), тайские и фьюжн-блюда, а вечером место превращается в бар с коктейлями. Подходит для неспешного бранча, который плавно переходит в вечер.",
+    "tip": "Попробуй фирменный Daisy Benedict. Бранч здесь хорошо растягивать: днём еда, ближе к вечеру коктейль.",
+    "price_level": 2,
+    "price_text": "Бранч 250–450 ฿, коктейли от 250 ฿",
+    "hours": "Ежедневно с утра до вечера",
+    "duration": "1,5–2 часа",
+    "best_time": "Поздний завтрак или бранч",
+    "how_to_get": "MRT Queen Sirikit, 10 минут пешком, или Grab от BTS Asok",
+    "lat": 13.729082199999999,
+    "lng": 100.5613813,
+    "unverified": [
+      "Адрес: в источниках также Gardina Asoke Hotel",
+      "Часы 6:00–00:00 по агрегатору, не подтверждены",
+      "Цены ориентировочные"
+    ],
+    "note": "Бранч-кафе в пастельных тонах, которое вечером превращается в бар",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Lazy%20Daisy%20Brunch%20and%20Bar%2013.729082199999999%2C100.5613813"
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "nuances": null,
+    "stamp": null,
+    "related": [],
+    "id": "isao",
+    "name": "Isao",
+    "name_en": "Isao",
+    "district": "Пхромпонг, Сукхумвит 31",
+    "categories": [
+      "restaurant"
+    ],
+    "tags": [],
+    "priority": "long",
+    "short": "Фьюжн-суши ресторан, знаменитый своим многослойным суши-сэндвичем",
+    "description": "Популярный фьюжн-суши ресторан на Сукхумвит 31, корнями из Чикаго. Здесь не классические японские суши, а яркие авторские роллы. Главные хиты — многослойный суши-сэндвич с лососем, тунцом и темпурной крошкой, ролл Jackie в форме гусеницы и запечённый гребешок Volcano.",
+    "tip": "Часто бывает очередь, поэтому лучше бронировать через LINE @isaobkk.",
+    "price_level": 2,
+    "price_text": "Роллы 250–600 ฿, ужин ~800–1 200 ฿ на человека",
+    "hours": "Ежедневно 11:00–14:30 и 17:30–22:00",
+    "duration": "1–1,5 часа",
+    "best_time": "Ужин",
+    "how_to_get": "BTS Phrom Phong, 10 минут пешком; или MRT Sukhumvit, 10 минут",
+    "lat": 13.73457,
+    "lng": 100.56626,
+    "unverified": [
+      "Цены ориентировочные"
+    ],
+    "note": "Фьюжн-суши ресторан, знаменитый своим многослойным суши-сэндвичем",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Isao%2013.73457%2C100.56626"
+  },
+  {
+    "city": "bangkok",
+    "local": true,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "nuances": null,
+    "stamp": null,
+    "related": [],
+    "id": "bartels-asok",
+    "name": "BARTELS",
+    "name_en": "BARTELS Asok – Sourdough Sandwiches, Coffee & Juicery",
+    "district": "Асок, Сукхумвит",
+    "categories": [
+      "cafe"
+    ],
+    "tags": [
+      "rain"
+    ],
+    "priority": "long",
+    "short": "Скандинавская пекарня-кафе с сэндвичами на хлебе на закваске",
+    "description": "Кафе скандинавской пекарни BARTELS, известной хлебом на закваске с долгой ферментацией. В меню горячие сэндвичи (tuna melt, Cubano, ветчина с бри), открытые бутерброды, кофе и соки холодного отжима. Хорошее место для завтрака или быстрого обеда.",
+    "tip": "Самый популярный сэндвич — tuna melt. К нему хорошо взять сок холодного отжима.",
+    "price_level": 2,
+    "price_text": "Сэндвичи 200–300 ฿, буханка ~250 ฿",
+    "hours": "Ежедневно примерно 7:00–18:00",
+    "duration": "45 минут",
+    "best_time": "Завтрак или обед",
+    "how_to_get": "BTS Asok или MRT Sukhumvit, 5 минут пешком",
+    "lat": 13.7384148,
+    "lng": 100.5590143,
+    "unverified": [
+      "Часы и цены по другим филиалам сети"
+    ],
+    "note": "Скандинавская пекарня-кафе с сэндвичами на хлебе на закваске",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=BARTELS%20Asok%20%E2%80%93%20Sourdough%20Sandwiches%2C%20Coffee%20%26%20Juicery%2013.7384148%2C100.5590143"
   }
 ]
