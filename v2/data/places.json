@@ -1111,5 +1111,92 @@
     "related_title": "По теме",
     "checked": "2026-10",
     "unverified": []
+  },
+  {
+    "id": "siam-premium-outlets",
+    "city": "bangkok",
+    "name": "Siam Premium Outlets",
+    "name_en": "Siam Premium Outlets Bangkok",
+    "district": "Бангсаотонг, трасса на Чонбури",
+    "categories": [
+      "shopping"
+    ],
+    "tags": [],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Большой аутлет, в котором особенно много спортивных брендов со скидками",
+    "note": "Большой аутлет, в котором особенно много спортивных брендов со скидками",
+    "description": "Большой аутлет, где собрано больше 200 брендов: от масс-маркета до премиума и люкса. Особенно много здесь спорта: Nike, Adidas, Asics, New Balance, Puma и другие.\n\nМне одинаково понравились и он, и Central Village. Набор брендов у них разный, так что если ищешь что-то конкретное, лучше заранее проверить, где оно есть. Аутлеты находятся минутах в двадцати друг от друга, поэтому за один день можно спокойно заехать в оба.",
+    "tip": "Из центра сюда ходит шаттл от торгового центра Siam Paragon, около 150 ฿ в одну сторону. Расписание лучше проверить заранее на сайте аутлета.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Вход свободный, скидки на бренды",
+    "hours": "Ежедневно примерно 10:00–22:00",
+    "duration": "2–4 часа",
+    "best_time": "Будний день",
+    "how_to_get": "Шаттл от Siam Paragon или Grab, около 40–60 минут из центра",
+    "nuances": null,
+    "website": "https://www.siampremiumoutlets.com",
+    "instagram": null,
+    "lat": 13.6946139,
+    "lng": 100.8312053,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Siam%20Premium%20Outlets%20Bangkok%2013.6946139%2C100.8312053",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Siam_Premium_Outlets.jpg/1280px-Siam_Premium_Outlets.jpg",
+        "credit": "Idea Works Communications / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "central-village"
+    ],
+    "related_title": "Второй аутлет, 20 минут отсюда",
+    "checked": "2026-10",
+    "unverified": [
+      "Часы и цена шаттла в источниках расходятся"
+    ]
+  },
+  {
+    "id": "central-village",
+    "city": "bangkok",
+    "name": "Central Village",
+    "name_en": "Central Village",
+    "district": "Бангпхли, рядом с аэропортом Суварнабхуми",
+    "categories": [
+      "shopping"
+    ],
+    "tags": [],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Люксовый аутлет в стиле тайской деревни рядом с аэропортом Суварнабхуми",
+    "note": "Люксовый аутлет в стиле тайской деревни рядом с аэропортом Суварнабхуми",
+    "description": "Первый в Таиланде люксовый аутлет, совсем рядом с аэропортом Суварнабхуми. Он построен в виде тайской деревни: невысокие домики, улочки, зелень, так что гулять здесь приятно. Брендов больше сотни, от спорта до премиума: Polo Ralph Lauren, Kenzo, Coach, Adidas и другие.\n\nМне одинаково понравились и он, и Siam Premium Outlets. Бренды в них частично разные, поэтому если ищешь что-то конкретное, можно заехать в оба: между ними минут двадцать на машине.",
+    "tip": "Удобно заехать по пути в аэропорт или сразу после прилёта: до Суварнабхуми отсюда около 10 минут.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Вход свободный, скидки на бренды",
+    "hours": "Ежедневно примерно 10:00–22:00",
+    "duration": "2–4 часа",
+    "best_time": "Будний день",
+    "how_to_get": "Шаттл от CentralWorld (около 100 ฿) или Grab, около 40 минут из центра",
+    "nuances": null,
+    "website": null,
+    "instagram": null,
+    "lat": 13.6381124,
+    "lng": 100.7439229,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Central%20Village%20Bangkok%2013.6381124%2C100.7439229",
+    "photos": [],
+    "related": [
+      "siam-premium-outlets"
+    ],
+    "related_title": "Второй аутлет, 20 минут отсюда",
+    "checked": "2026-10",
+    "unverified": [
+      "Часы и цена шаттла в источниках расходятся"
+    ]
   }
 ]
