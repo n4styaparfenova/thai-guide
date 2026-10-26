@@ -1,0 +1,833 @@
+[
+  {
+    "id": "wat-arun",
+    "city": "bangkok",
+    "name": "Ват Арун",
+    "name_en": "Wat Arun (Temple of Dawn)",
+    "district": "Бангкок Яй, западный берег Чаупхраи",
+    "categories": [
+      "culture"
+    ],
+    "tags": [
+      "sunset",
+      "romantic"
+    ],
+    "hidden_gem": false,
+    "short": "Храм Рассвета: фарфоровая пагода над рекой Чаупхрая",
+    "description": "Главный силуэт Бангкока — 70-метровый пранг в кхмерском стиле, целиком выложенный осколками китайского фарфора и ракушками. По крутым ступеням можно подняться на нижние террасы и посмотреть на реку и Большой дворец. Днём храм сияет на солнце, а вечером его подсвечивают — лучший вид открывается с противоположного берега.",
+    "tip": "Приезжайте к открытию в 8:00, пока нет тургрупп и жары, а на закат переправьтесь обратно к пирсу Tha Tien — с набережных и баров на восточном берегу открывается классический вид на подсвеченный храм.",
+    "google_rating": 4.7,
+    "price_level": 2,
+    "price_text": "Вход 200 ฿ для иностранцев (тайцы бесплатно)",
+    "hours": "Ежедневно 8:00–18:00 (последний вход около 17:30)",
+    "duration": "1–1,5 часа",
+    "best_time": "Утро 8:00–9:30; вид на закат — с противоположного берега",
+    "how_to_get": "Речной трамвай Chao Phraya Express (оранжевый флаг) до пирса Tha Tien (N8), затем паром-переправа через реку за 5 ฿ к пирсу Wat Arun. От Ват Пхо пешком 5 минут до переправы. Ближайшее метро — MRT Sanam Chai (10 минут пешком до Tha Tien).",
+    "nuances": "Строгий дресс-код: закрытые плечи и колени, без прозрачной одежды. Если одежда не подходит, у входа можно взять напрокат саронг. Подъём на пранг очень крутой — осторожно с детьми.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.74361,
+    "lng": 100.48889,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.74361,100.48889",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Wat_Arun_Sunset.jpg/1280px-Wat_Arun_Sunset.jpg",
+        "credit": "miketnorton / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Wat_Arun_Ratchawararam_and_the_Royal_Barge_Procession.jpg/1280px-Wat_Arun_Ratchawararam_and_the_Royal_Barge_Procession.jpg",
+        "credit": "Tee-12838 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Wat_Arun_in_2023.jpg/1280px-Wat_Arun_in_2023.jpg",
+        "credit": "Radek Kucharski / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Wat_Arun_Ratchawararam_Ratchawaramahawihan_Temple.jpg/1280px-Wat_Arun_Ratchawararam_Ratchawaramahawihan_Temple.jpg",
+        "credit": "Krishnagopi06 / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating"
+    ]
+  },
+  {
+    "id": "chatuchak-weekend-market",
+    "city": "bangkok",
+    "name": "Рынок Чатучак",
+    "name_en": "Chatuchak Weekend Market",
+    "district": "Чатучак, север Бангкока",
+    "categories": [
+      "shopping",
+      "food"
+    ],
+    "tags": [
+      "free",
+      "rain"
+    ],
+    "hidden_gem": false,
+    "short": "15 000 лавок: одежда, декор, растения и уличная еда",
+    "description": "Один из крупнейших рынков мира: больше 15 тысяч прилавков на 27 секциях, где продают всё — от винтажа и керамики до орхидей и ручных изделий. Большая часть рядов крытая, поэтому рынок спасает и в жару, и в ливень. Отдельное удовольствие — еда: кокосовое мороженое, жареная свинина, манго со sticky rice.",
+    "tip": "Приходите к 9:00–10:00, пока прохладно и мало людей; сфотографируйте карту у входа или найдите нужную секцию по номеру — без ориентиров легко заблудиться. Торгуйтесь мягко, на 10–20%; в кондиционированном JJ Mall рядом можно передохнуть.",
+    "google_rating": 4.5,
+    "price_level": 1,
+    "price_text": "Вход бесплатный",
+    "hours": "Сб–Вс 9:00–18:00; Пт 18:00–24:00 (оптовая ночная торговля одеждой); Ср–Чт 7:00–18:00 — только ряды растений",
+    "duration": "2–4 часа",
+    "best_time": "Суббота или воскресенье с 9:00 до полудня",
+    "how_to_get": "BTS Mo Chit (выход 1) или MRT Chatuchak Park (выход 1) — рынок прямо у станций. MRT Kamphaeng Phet (выход 2) выводит сразу в ряды растений.",
+    "nuances": "Полноценно рынок работает только в выходные. Остерегайтесь карманников в толпе и подделок брендов.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.80083,
+    "lng": 100.55139,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.80083,100.55139",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Chatuchak_Weekend_Market_Soi.jpg/1280px-Chatuchak_Weekend_Market_Soi.jpg",
+        "credit": "JJ Harrison (https://www.jjharrison.com.au/) / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Chatuchak_Weekend_Market_1.jpg/1280px-Chatuchak_Weekend_Market_1.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating"
+    ]
+  },
+  {
+    "id": "bang-krachao",
+    "city": "bangkok",
+    "name": "Банг Крачао",
+    "name_en": "Bang Krachao (Bangkok's Green Lung)",
+    "district": "Пхра Прадэнг, петля реки Чаупхрая (провинция Самутпракан)",
+    "categories": [
+      "nature",
+      "active"
+    ],
+    "tags": [],
+    "hidden_gem": true,
+    "short": "«Зелёные лёгкие» Бангкока: велосипед по джунглям у мегаполиса",
+    "description": "Огромный зелёный полуостров в петле реки напротив небоскрёбов Клонг Тоея. Здесь нет высоток — только мангры, кокосовые плантации, узкие бетонные дорожки на сваях и деревни. Удобнее всего исследовать на велосипеде: парк Шри Накхон Кхыан Кхан с озером и смотровой вышкой, кафе в садах и плавучий рынок Bang Nam Phueng по выходным.",
+    "tip": "Арендуйте велосипед прямо у пирса (около 80–100 ฿ в день) и стартуйте до 10 утра. Дорожки на сваях узкие и без перил — уступайте местным мопедам и не съезжайте к краю.",
+    "google_rating": 4.5,
+    "price_level": 1,
+    "price_text": "Вход в парк бесплатный; переправа 10–20 ฿, велосипед ≈80–100 ฿/день",
+    "hours": "Переправа ≈6:00–20:00; парк Шри Накхон Кхыан Кхан — днём; рынок Bang Nam Phueng — Сб–Вс до ≈15:00",
+    "duration": "Полдня",
+    "best_time": "Утро в выходные (работает плавучий рынок)",
+    "how_to_get": "Grab/Bolt до храма Wat Khlong Toei Nok (Клонг Тоей) — за храмом пирс с лодками через реку (≈10–20 ฿, 5 минут). На другом берегу пункты проката велосипедов. Из центра — MRT Khlong Toei, затем такси 10 минут.",
+    "nuances": "В сезон дождей (июнь–октябрь) дорожки на сваях бывают скользкими и местами подтапливаются. Возьмите репеллент.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.6968,
+    "lng": 100.56684,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.6968,100.56684",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bang_Kachao_jungle_path.jpg/1280px-Bang_Kachao_jungle_path.jpg",
+        "credit": "James Antrobus / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Suan_Sri_Nakhon_Khuenkhan_1.jpg/1280px-Suan_Sri_Nakhon_Khuenkhan_1.jpg",
+        "credit": "User:HAH / CC BY 2.5 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ]
+  },
+  {
+    "id": "sanctuary-of-truth",
+    "city": "pattaya",
+    "name": "Храм Истины",
+    "name_en": "Sanctuary of Truth",
+    "district": "Наклуа, север Паттайи",
+    "categories": [
+      "culture"
+    ],
+    "tags": [
+      "sunset"
+    ],
+    "hidden_gem": false,
+    "short": "Гигантский резной храм из дерева на берегу залива",
+    "description": "105-метровое сооружение, полностью вырезанное из дерева без единого гвоздя: тысячи фигур богов и героев индуистской и буддийской мифологии. Строительство идёт с 1981 года и до сих пор не закончено — внутри можно увидеть работу резчиков. Здание стоит прямо на мысе над морем, что делает его особенно фотогеничным.",
+    "tip": "Купите вечерний билет: подсвеченный храм на закате выглядит магически, а людей заметно меньше. Днём приходите к открытию, пока солнце не раскалило территорию.",
+    "google_rating": 4.6,
+    "price_level": 2,
+    "price_text": "Дневной билет 500 ฿, вечерний 700 ฿ (взрослые от 140 см)",
+    "hours": "Ежедневно 8:00–18:00 (дневной билет); вечерний тур ≈18:00–20:30",
+    "duration": "1,5–2 часа",
+    "best_time": "Открытие в 8:00 или вечерний тур на закате",
+    "how_to_get": "Grab/Bolt из центра Паттайи 15–20 минут (≈100–150 ฿) — в Наклуа, сой 12. Можно на синем сонгтэо по Beach Road/Наклуа до поворота, но от дороги ещё ≈1 км пешком.",
+    "nuances": "Дресс-код: плечи и колени закрыты (саронги выдают на входе). Часть территории может быть закрыта строительными лесами.",
+    "website": "https://www.sanctuaryoftruthmuseum.com/",
+    "instagram": null,
+    "lat": 12.97278,
+    "lng": 100.88889,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=12.97278,100.88889",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/The_Sanctuary_of_Truth_%2851870146207%29.jpg/1280px-The_Sanctuary_of_Truth_%2851870146207%29.jpg",
+        "credit": "Radek Kucharski from Warsaw, Poland / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Sanctuary_of_Truth_2016-02-19-02.jpg/1280px-Sanctuary_of_Truth_2016-02-19-02.jpg",
+        "credit": "Rolf Heinrich, Köln / CC BY 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Sanctuary_of_Truth%2C_Pattaya%2C_Thailand_%2854151119640%29.jpg/1280px-The_Sanctuary_of_Truth%2C_Pattaya%2C_Thailand_%2854151119640%29.jpg",
+        "credit": "Mustang Joe / CC0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ]
+  },
+  {
+    "id": "koh-larn",
+    "city": "pattaya",
+    "name": "Остров Ко Лан (Коралловый)",
+    "name_en": "Koh Larn (Coral Island)",
+    "district": "Ко Лан, 7 км от Паттайи",
+    "categories": [
+      "beach",
+      "active"
+    ],
+    "tags": [],
+    "hidden_gem": false,
+    "short": "Бирюзовые пляжи в 45 минутах на пароме от Паттайи",
+    "description": "Ближайший к Паттайе остров с белым песком и прозрачной водой, в отличие от городских пляжей. Самый оживлённый — Таваен с водными развлечениями, тише — Тиен, Нуал (Обезьяний) и Самэ. По острову ездят сонгтэо и мототакси, а смотровые площадки на холмах дают отличные виды.",
+    "tip": "Плывите на дешёвом общественном пароме от пирса Бали Хай, а не на «экскурсии» у промоутеров. Самые чистые и спокойные пляжи — Тиен и Самэ, лучше приезжать в будни: в выходные остров штурмуют туристы из Бангкока.",
+    "google_rating": 4.5,
+    "price_level": 1,
+    "price_text": "Паром 30 ฿ в одну сторону (планировалось повышение до 40 ฿ — держите 40 ฿ наличными); лежак 100–200 ฿",
+    "hours": "Паромы от Бали Хай ≈7:00–18:30; последний обратно с Набана ≈18:00 (с Таваена раньше)",
+    "duration": "Целый день",
+    "best_time": "Будни, выезд первыми паромами в 7:00–9:00; сезон ноябрь–апрель",
+    "how_to_get": "Пирс Бали Хай (южный конец Beach Road / Walking Street). Общественный паром ≈45 минут до пирса Набан (Na Baan), отдельные рейсы прямо на Таваен. Скоростной катер ≈150–300 ฿/чел, 15–20 минут. На острове: сонгтэо от Набана к пляжам ≈20–40 ฿, аренда байка ≈300 ฿.",
+    "nuances": "Возьмите наличные — карты принимают редко, банкоматы в выходные пустеют. С мая по октябрь при волнении скоростные катера могут отменять. Аренда мотобайка на крутых серпантинах — частая причина травм у туристов.",
+    "website": null,
+    "instagram": null,
+    "lat": 12.91583,
+    "lng": 100.7775,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=12.91583,100.7775",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Koh_larn_2022.jpg/1280px-Koh_larn_2022.jpg",
+        "credit": "Ambralina / CC0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/KOH_LARN_ISLAND_THAILAND_JAN_2012_%287005703631%29.jpg/1280px-KOH_LARN_ISLAND_THAILAND_JAN_2012_%287005703631%29.jpg",
+        "credit": "calflier001 / CC BY-SA 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sunset_on_Koh_Larn_-_panoramio_%281%29.jpg/1280px-Sunset_on_Koh_Larn_-_panoramio_%281%29.jpg",
+        "credit": "rayhol / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ]
+  },
+  {
+    "id": "nong-nooch",
+    "city": "pattaya",
+    "name": "Сад Нонг Нуч",
+    "name_en": "Nong Nooch Tropical Garden",
+    "district": "Саттахип, 18 км к югу от Паттайи",
+    "categories": [
+      "nature",
+      "kids"
+    ],
+    "tags": [
+      "kids"
+    ],
+    "hidden_gem": false,
+    "short": "Огромный тропический парк с садами, динозаврами и шоу",
+    "description": "Ботанический сад на сотнях гектаров: французский и итальянский парки, сад кактусов, аллеи пальм и орхидей, долина с динозаврами в натуральную величину. Есть шоу тайской культуры и зоопарк-мини. Отличное место на целый день, особенно с детьми.",
+    "tip": "Покупайте билет онлайн заранее (Klook/Trip.com часто заметно дешевле кассы) и берите вариант с автобусом-шаттлом по территории — пешком всё не обойти. Приезжайте к открытию, пока не жарко.",
+    "google_rating": 4.5,
+    "price_level": 2,
+    "price_text": "Вход ≈600 ฿ на кассе для иностранцев; онлайн дешевле; пакеты с шоу и автобусом дороже",
+    "hours": "Ежедневно ≈8:00–18:00",
+    "duration": "4–6 часов",
+    "best_time": "Утро с 8:00; шоу — по расписанию на входе",
+    "how_to_get": "Grab/Bolt из центра Паттайи ≈30 минут (≈300–400 ฿) по Сукхумвит до 163-го км. Многие отели и турагентства продают трансфер вместе с билетом.",
+    "nuances": null,
+    "website": "https://www.nongnoochpattaya.com/",
+    "instagram": "https://www.instagram.com/nongnoochpattayagarden/",
+    "lat": 12.76472,
+    "lng": 100.93583,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=12.76472,100.93583",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Overview_Nong_Nooch_Botanical_Garden.jpg/1280px-Overview_Nong_Nooch_Botanical_Garden.jpg",
+        "credit": "Christoph Jackel (WMDE) / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Nong_Nooch-01.JPG/1280px-Nong_Nooch-01.JPG",
+        "credit": "Wayne77 / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Nong_Nooch-02.JPG/1280px-Nong_Nooch-02.JPG",
+        "credit": "Wayne77 / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ]
+  },
+  {
+    "id": "big-buddha-phuket",
+    "city": "phuket",
+    "name": "Большой Будда",
+    "name_en": "Big Buddha Phuket",
+    "district": "Холм Накерд, между Чалонгом и Ката",
+    "categories": [
+      "culture"
+    ],
+    "tags": [
+      "free",
+      "sunset"
+    ],
+    "hidden_gem": false,
+    "short": "45-метровый белый Будда над всем югом Пхукета",
+    "description": "Огромная статуя из белого бирманского мрамора на вершине холма Накерд — её видно почти с любого пляжа юга острова. Отсюда открывается панорама на заливы Чалонг, Ката и Карон. После оползня 2024 года объект закрывали, в марте 2026-го он снова открылся под управлением храма.",
+    "tip": "Добирайтесь на Grab и закажите машину обратно заранее или договоритесь с водителем подождать — свободных такси наверху мало. На закате вид лучший, но учтите, что последний вход — около 17:30.",
+    "google_rating": 4.7,
+    "price_level": 1,
+    "price_text": "Вход бесплатный (приветствуются пожертвования)",
+    "hours": "Ежедневно 9:00–18:00 (последний вход ≈17:30)",
+    "duration": "1 час",
+    "best_time": "Утро до 10:00 или ближе к закрытию",
+    "how_to_get": "Только на транспорте: Grab/Bolt из Чалонга ≈15 минут, из Патонга ≈30–40 минут (≈400–500 ฿). Дорога начинается от Chao Fa West Road, крутой серпантин — на скутере только опытным.",
+    "nuances": "Объект был закрыт после смертельного оползня 23 августа 2024 и вновь открыт 3 марта 2026 на ограниченной территории — перед поездкой проверьте статус, особенно после сильных дождей. Дресс-код: плечи и колени закрыты, обувь снимают у входа в молельные помещения.",
+    "website": null,
+    "instagram": null,
+    "lat": 7.82752,
+    "lng": 98.31244,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=7.82752,98.31244",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Big_Buddha%2C_Phuket.jpg/1280px-The_Big_Buddha%2C_Phuket.jpg",
+        "credit": "Subhrajyoti07 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg/1280px-Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg",
+        "credit": "CEphoto, Uwe Aranas / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Big_Buddha_-_Phuket.jpg/1280px-Big_Buddha_-_Phuket.jpg",
+        "credit": "Mussi Katz / CC0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ]
+  },
+  {
+    "id": "phuket-old-town",
+    "city": "phuket",
+    "name": "Старый город Пхукета",
+    "name_en": "Phuket Old Town & Lard Yai Sunday Walking Street",
+    "district": "Пхукет-таун",
+    "categories": [
+      "culture",
+      "food",
+      "shopping"
+    ],
+    "tags": [
+      "free",
+      "night"
+    ],
+    "hidden_gem": false,
+    "short": "Пастельные сино-португальские дома, кафе и воскресный рынок",
+    "description": "Исторический центр с разноцветными домами-шопхаусами времён оловянного бума, уличными муралами, китайскими святилищами и десятками кофеен. Улицы Thalang, Dibuk, Krabi и Soi Romanee — главные для прогулки. По воскресеньям вечером Thalang Road превращается в пешеходный рынок Lard Yai с уличной едой, музыкой и сувенирами.",
+    "tip": "Приезжайте в воскресенье к 16:00–17:00: погуляйте по старому городу при дневном свете, а затем останьтесь на рынок Lard Yai. После 18:00 там очень людно. Попробуйте местную кухню: ми хокиен и о-тао.",
+    "google_rating": 4.5,
+    "price_level": 1,
+    "price_text": "Бесплатно",
+    "hours": "Старый город — круглосуточно (магазины и кафе ≈9:00–18:00); рынок Lard Yai — Вс ≈16:00–22:00",
+    "duration": "2–4 часа",
+    "best_time": "Воскресенье с 16:00; утро будней для фото без толпы",
+    "how_to_get": "Grab/Bolt из Патонга ≈30 минут (≈400–500 ฿). Дешевле — синий сонгтэо от Патонга, Ката или Карона до рынка на Ranong Road (≈30–40 ฿, ходят днём). По воскресеньям машины на Thalang Road не пускают — выходите на соседних улицах.",
+    "nuances": "Многие магазины и музеи закрываются к 17–18 часам. Рынок может не работать в праздники и в сильный дождь.",
+    "website": null,
+    "instagram": null,
+    "lat": 7.88456,
+    "lng": 98.38914,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=7.88456,98.38914",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Phuket_old_town_%2852549766215%29.jpg/1280px-Phuket_old_town_%2852549766215%29.jpg",
+        "credit": "Mussi Katz from Israel / CC0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Buildings_in_Old_Phuket_Town.jpg/1280px-Buildings_in_Old_Phuket_Town.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-04.jpg/1280px-Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-04.jpg",
+        "credit": "CEphoto, Uwe Aranas / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ]
+  },
+  {
+    "id": "freedom-beach",
+    "city": "phuket",
+    "name": "Пляж Фридом",
+    "name_en": "Freedom Beach",
+    "district": "Между Патонгом и Кароном",
+    "categories": [
+      "beach",
+      "nature"
+    ],
+    "tags": [
+      "romantic"
+    ],
+    "hidden_gem": true,
+    "short": "Уединённая бухта с белым песком, куда не ведёт дорога",
+    "description": "Небольшой пляж с мелким белым песком и бирюзовой водой, окружённый джунглями. Дороги к нему нет — только лодка или крутая тропа через лес, поэтому здесь в разы спокойнее, чем на соседнем Патонге. У камней хороший снорклинг, на пляже есть простое кафе.",
+    "tip": "Договаривайтесь о лодке-лонгтейле на южном конце Патонга компанией — цена за лодку, а не за человека; оплачивайте после возвращения. Приезжайте с утра, к обеду подходят групповые лодки.",
+    "google_rating": 4.6,
+    "price_level": 2,
+    "price_text": "Лонгтейл туда-обратно ≈1200–1500 ฿ за лодку; при входе по тропе — сбор за проход ≈100–200 ฿/чел",
+    "hours": "Светлое время суток ≈8:00–17:00",
+    "duration": "Полдня",
+    "best_time": "Ноябрь–апрель, утро",
+    "how_to_get": "Лонгтейл с южного конца пляжа Патонг (≈10–15 минут). Альтернатива — тропа от дороги Патонг–Карон: спуск 15–30 минут по крутому лесному склону, обратно тяжелее.",
+    "nuances": "С мая по октябрь из-за волн лодки часто не ходят, купаться опасно. Тропа скользкая после дождя, шлагбаум на подъезде иногда закрыт — уточняйте на месте. Еду и воду лучше взять с собой.",
+    "website": null,
+    "instagram": null,
+    "lat": 7.87483,
+    "lng": 98.27556,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=7.87483,98.27556",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Freedom_beach_-_Karon%2C_Phuket%2C_Thailand_-_panoramio.jpg",
+        "credit": "Bob Phillips / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/20221108_Freedom_Beach_auf_Phuket_%282%29.jpg/1280px-20221108_Freedom_Beach_auf_Phuket_%282%29.jpg",
+        "credit": "Joachim Lutz / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ]
+  },
+  {
+    "id": "koh-samet",
+    "city": "rayong",
+    "name": "Остров Самет",
+    "name_en": "Koh Samet",
+    "district": "Национальный парк Кхао Лэм Я – Му Ко Самет",
+    "categories": [
+      "beach",
+      "nature",
+      "party"
+    ],
+    "tags": [
+      "sunset",
+      "night",
+      "romantic"
+    ],
+    "hidden_gem": false,
+    "short": "Белоснежные пляжи в 3 часах от Бангкока",
+    "description": "Небольшой остров-нацпарк с мелким, как мука, белым песком и спокойным морем. Восточное побережье — череда бухт: шумный Сай Кэу, тусовочный Ао Пхай с файер-шоу, уютные Вонг Дыан и Ао Тхиан. На западном берегу — пляж Ао Прао с красивыми закатами.",
+    "tip": "Приезжайте в будни: в выходные и тайские праздники остров заполняют гости из Бангкока, а цены на жильё растут. Для тихого отдыха выбирайте южные бухты (Ао Тхиан, Ао Ваи), за закатом идите на западную смотровую или Ао Прао.",
+    "google_rating": 4.5,
+    "price_level": 2,
+    "price_text": "Сбор нацпарка 200 ฿ (дети 100 ฿) для иностранцев; паром из Бан Пхе ≈50–70 ฿ в одну сторону",
+    "hours": "Круглосуточно; паромы из Бан Пхе ≈7:00–17:00 примерно раз в час",
+    "duration": "1–3 дня",
+    "best_time": "Ноябрь–май; остров суше многих других — неплохой выбор и в сезон дождей",
+    "how_to_get": "Из Бангкока автобус от автовокзала Экамай до Бан Пхе (≈3,5 часа) или трансфер. Из Паттайи — такси/Grab ≈1,5 часа. Из Бан Пхе (пирс Nuan Thip) — паром до пирса Na Dan ≈40 минут или скоростной катер ≈15 минут (дороже, может довезти прямо до пляжа). На острове — сонгтэо от пирса.",
+    "nuances": "Сбор нацпарка берут наличными на КПП после высадки — сохраните билет. В выходные и праздники бронируйте жильё заранее.",
+    "website": null,
+    "instagram": null,
+    "lat": 12.56778,
+    "lng": 101.45472,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=12.56778,101.45472",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ko_Samet_%2849436793576%29.jpg/1280px-Ko_Samet_%2849436793576%29.jpg",
+        "credit": "kishjar? from Moscow, Russia / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Beach_Sea_Breeze_Koh_Samet.jpg/1280px-Beach_Sea_Breeze_Koh_Samet.jpg",
+        "credit": "Bjørn Erik Pedersen / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Koh_Samet%2CWong_Duean_Beach.jpg/1280px-Koh_Samet%2CWong_Duean_Beach.jpg",
+        "credit": "Eltorodeoro / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ]
+  },
+  {
+    "id": "khao-chamao",
+    "city": "rayong",
+    "name": "Нацпарк Кхао Чамао – Кхао Вонг",
+    "name_en": "Khao Chamao–Khao Wong National Park (Khao Chamao Waterfall)",
+    "district": "Район Кхао Чамао, восток провинции Районг",
+    "categories": [
+      "nature",
+      "active",
+      "kids"
+    ],
+    "tags": [
+      "kids"
+    ],
+    "hidden_gem": true,
+    "short": "Каскадный водопад в джунглях и пруды с огромными рыбами",
+    "description": "Лесной нацпарк в глубине провинции, где почти не бывает иностранцев. Главная тропа идёт вдоль ручья с каскадами водопада Кхао Чамао (7–8 уровней) — у нижних бассейнов живут сотни крупных рыб, а в естественных купелях можно освежиться. Дальние уровни требуют подъёма по камням и корням.",
+    "tip": "Приезжайте в будни к открытию, наденьте обувь с хорошей подошвой и возьмите купальник — у первых уровней можно поплавать в прохладной воде. Еду и воду возьмите с собой: у входа лишь пара простых лавок.",
+    "google_rating": 4.5,
+    "price_level": 2,
+    "price_text": "Вход 200 ฿ для иностранцев (дети 100 ฿); тайцы 40 ฿",
+    "hours": "Ежедневно ≈8:30–16:30 (в будни могут закрывать раньше, ≈15:30)",
+    "duration": "2–4 часа",
+    "best_time": "Будни утром; самая полноводная — сентябрь–декабрь",
+    "how_to_get": "Только на машине: из Районга ≈1,5 часа, из Паттайи ≈2 часа. По Сукхумвит до перекрёстка Тхунг Кхвай Кин, затем на север по шоссе 3377. Grab туда возможен, обратно поймать такси почти нереально — арендуйте машину с водителем.",
+    "nuances": "В сильные дожди тропы к верхним каскадам могут закрывать. Билет действует один день (при ночёвке в парке — до 3 дней).",
+    "website": null,
+    "instagram": null,
+    "lat": 12.91559,
+    "lng": 101.73049,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=12.91559,101.73049",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Secret_bridge_Khao_Chamao.jpg/1280px-Secret_bridge_Khao_Chamao.jpg",
+        "credit": "Yoshifumi Iwata / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Forest_Khao_Chamao.jpg/1280px-Forest_Khao_Chamao.jpg",
+        "credit": "Yoshifumi Iwata / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ]
+  },
+  {
+    "id": "doi-suthep",
+    "city": "chiangmai",
+    "name": "Ват Пхра Тхат Дой Сутхеп",
+    "name_en": "Wat Phra That Doi Suthep",
+    "district": "Гора Дой Сутхеп, 15 км от центра",
+    "categories": [
+      "culture",
+      "nature"
+    ],
+    "tags": [
+      "sunset"
+    ],
+    "hidden_gem": false,
+    "short": "Золотая ступа на горе и вид на весь Чиангмай",
+    "description": "Главная святыня северного Таиланда на высоте около 1000 м: золотая ступа XIV века с реликвией Будды. К храму ведёт знаменитая лестница из 306 ступеней с перилами-нагами, а со смотровой площадки виден весь Чиангмай. Утром здесь можно застать монахов и прохладу.",
+    "tip": "Поднимайтесь на рассвете (храм открывается рано) — увидите утреннюю молитву и туман над долиной, а туристов почти не будет. Если тяжело идти по лестнице, есть фуникулёр-лифт.",
+    "google_rating": 4.7,
+    "price_level": 1,
+    "price_text": "Вход 30 ฿ для иностранцев; лифт ≈20 ฿",
+    "hours": "Ежедневно ≈6:00–20:00",
+    "duration": "1,5–2 часа (с дорогой — полдня)",
+    "best_time": "Рассвет–9:00 или к закату в ясную погоду",
+    "how_to_get": "Красный сонгтэо от зоопарка Чиангмая / университета CMU (≈60–80 ฿ с человека в одну сторону, уезжает при наборе ~10 пассажиров) или Grab ≈30 минут (≈250–350 ฿). Хайкерам — «Тропа монахов» (Monk's Trail) от конца Suthep Road до Ват Пха Лат и выше, ≈2–3 часа.",
+    "nuances": "Дресс-код: плечи и колени закрыты, обувь снимают у входа во внутренний двор. С октября 2025 года в остальной части нацпарка Дой Сутхеп–Пуй (водопады, Дой Пуй) берут 100 ฿ с иностранцев, но к самому храму по основной дороге проезд бесплатный.",
+    "website": null,
+    "instagram": null,
+    "lat": 18.80498,
+    "lng": 98.92156,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=18.80498,98.92156",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Doi_Suthep_Temple_Chiang_Mai_Thailand.jpg/1280px-Doi_Suthep_Temple_Chiang_Mai_Thailand.jpg",
+        "credit": "Philip Nalangan / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Doi_Suthep_Temple_in_the_morning.jpg/1280px-Doi_Suthep_Temple_in_the_morning.jpg",
+        "credit": "Sakchai Ruankam / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ]
+  },
+  {
+    "id": "elephant-nature-park",
+    "city": "chiangmai",
+    "name": "Elephant Nature Park",
+    "name_en": "Elephant Nature Park",
+    "district": "Долина Мэтэнг, ≈60 км к северу от Чиангмая",
+    "categories": [
+      "nature",
+      "kids"
+    ],
+    "tags": [
+      "kids"
+    ],
+    "hidden_gem": false,
+    "short": "Этичный приют для спасённых слонов — без катаний и шоу",
+    "description": "Самый известный реабилитационный центр для слонов в Таиланде, основанный Сэнгдыан «Лек» Чайлерт. Здесь живут десятки спасённых из туризма и лесозаготовок слонов, а также собаки, буйволы и кошки. Гости наблюдают за стадом с прогулочных платформ, кормят слонов и узнают их истории — никакого катания и цирка.",
+    "tip": "Бронируйте только на официальном сайте elephantnaturepark.org и за 2–4 недели в высокий сезон — места быстро заканчиваются, а в городе много «ENP-подобных» лагерей с похожими названиями. Гости не купают и не катают слонов — только наблюдают, как стадо само идёт к реке; так и должно быть в этичном парке.",
+    "google_rating": 4.8,
+    "price_level": 3,
+    "price_text": "Полдня 2500 ฿; дневные программы от 3500 ฿; дети 3–11 лет — 50%",
+    "hours": "По программам: выезд из отеля ≈7:30–8:45, возвращение ≈16:00–18:00 (полдня — утро или после обеда)",
+    "duration": "Полдня или целый день",
+    "best_time": "Ноябрь–февраль (прохладно, зелено)",
+    "how_to_get": "Трансфер из отеля в Чиангмае включён в стоимость (≈1–1,5 часа на минивэне). Самостоятельно приехать нельзя — только по брони.",
+    "nuances": "Обязательна предоплата; депозит невозвратный. Детей принимают не на все программы.",
+    "website": "https://www.elephantnaturepark.org/",
+    "instagram": "https://www.instagram.com/elephantnaturepark/",
+    "lat": 19.21468,
+    "lng": 98.86164,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=19.21468,98.86164",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/The_herd_of_Elephant_Nature_Park.JPG/1280px-The_herd_of_Elephant_Nature_Park.JPG",
+        "credit": "Elemanxx / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Elephant_d%27Asie_%28Elephant_nature_park%2C_Tha%C3%AFlande%29.jpg/1280px-Elephant_d%27Asie_%28Elephant_nature_park%2C_Tha%C3%AFlande%29.jpg",
+        "credit": "Chirstelle EL JAMALI / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Elephant_Nature_Park_%2849418413298%29.jpg/1280px-Elephant_Nature_Park_%2849418413298%29.jpg",
+        "credit": "Nina R from Africa / CC BY 2.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "instagram"
+    ]
+  },
+  {
+    "id": "chiangmai-sunday-walking-street",
+    "city": "chiangmai",
+    "name": "Воскресный рынок (Walking Street)",
+    "name_en": "Chiang Mai Sunday Walking Street (Ratchadamnoen Road)",
+    "district": "Старый город, от ворот Тхапэ до Ват Пхра Сингх",
+    "categories": [
+      "shopping",
+      "food",
+      "culture"
+    ],
+    "tags": [
+      "free",
+      "night"
+    ],
+    "hidden_gem": false,
+    "short": "Километр ремёсел, уличной еды и музыки в старом городе",
+    "description": "Каждое воскресенье главная улица старого города Ratchadamnoen закрывается для машин и превращается в огромный ночной рынок длиной более километра. Здесь продают изделия местных мастеров, одежду, серебро и сувениры, а во дворах храмов работают фуд-корты. Это лучшее место, чтобы за вечер попробовать всю северную кухню.",
+    "tip": "Приходите к 16:00–17:00 — успеете погулять до пика толпы, а ужин возьмите во дворе Ват Пхан Он или Ват Пхра Сингх. Если вы в городе в субботу, загляните на более спокойный рынок на улице Вуалай (Wualai) — он работает только по субботам и славится серебром.",
+    "google_rating": 4.5,
+    "price_level": 1,
+    "price_text": "Вход бесплатный",
+    "hours": "Вс ≈16:00–22:00 (часть лотков до 23:00); рынок на Wualai — Сб ≈17:00–22:00",
+    "duration": "2–3 часа",
+    "best_time": "Воскресенье 16:00–18:00 до пика толпы",
+    "how_to_get": "Пешком от ворот Тхапэ (Tha Phae Gate) — рынок начинается прямо от них. Grab/Bolt до ворот Тхапэ; машины на саму улицу вечером не пускают.",
+    "nuances": "Воскресный рынок на Ratchadamnoen и субботний на Wualai — разные рынки в разные дни. Около 18:00 при звуках гимна все останавливаются — проявите уважение. Берегите сумки в толпе.",
+    "website": null,
+    "instagram": null,
+    "lat": 18.788,
+    "lng": 98.9905,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=18.788,98.9905",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Chiang_Mai_sunday_evening_walking_street.jpg/1280px-Chiang_Mai_sunday_evening_walking_street.jpg",
+        "credit": "Takeaway / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Chiang_mai_sunday_evening_market_01.jpg",
+        "credit": "Takeaway / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/ThaPaeWalkingStreet2.jpg/1280px-ThaPaeWalkingStreet2.jpg",
+        "credit": "LannaPhoto / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ]
+  },
+  {
+    "id": "wat-rong-khun",
+    "city": "chiangrai",
+    "name": "Белый храм (Ват Ронг Кхун)",
+    "name_en": "Wat Rong Khun (White Temple)",
+    "district": "Пха Ныанг, 13 км к югу от Чианграя",
+    "categories": [
+      "culture"
+    ],
+    "tags": [],
+    "hidden_gem": false,
+    "short": "Ослепительно белый храм-арт-объект Чалермчая Коситпипата",
+    "description": "Сказочный белоснежный храм с зеркальной мозаикой, созданный художником Чалермчаем Коситпипатом с 1997 года. Мост через «ад» из сотен тянущихся рук ведёт в зал, где на стенах рядом с Буддой — Человек-паук, Нео и супергерои. Комплекс постоянно достраивается, в билет входят галереи и Cave of Art.",
+    "tip": "Будьте у ворот к 8:00 — к 10:00 приезжают автобусы с экскурсиями из Чиангмая. Внутри главного зала фотографировать нельзя, а на мосту нельзя останавливаться и возвращаться назад — проход строго в одну сторону.",
+    "google_rating": 4.7,
+    "price_level": 2,
+    "price_text": "Вход 200 ฿ для иностранцев с 1 января 2026 (раньше 100 ฿); тайцы, гости 70+ и дети до 120 см бесплатно",
+    "hours": "Ежедневно 8:00–17:30 (последний вход ≈17:00)",
+    "duration": "1–1,5 часа",
+    "best_time": "К открытию в 8:00",
+    "how_to_get": "Grab/Bolt из центра Чианграя ≈20 минут (≈200 ฿). Дешевле — местный автобус со старого автовокзала Чианграя в сторону Пхаяо/Чиангмая (≈20–30 ฿), попросите высадить у храма. Из Чиангмая — однодневный тур (≈3 часа в одну сторону).",
+    "nuances": "Строгий дресс-код: плечи и колени закрыты, без обтягивающей и прозрачной одежды.",
+    "website": null,
+    "instagram": null,
+    "lat": 19.82467,
+    "lng": 99.76333,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=19.82467,99.76333",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/White_Temple_XXI.jpg/1280px-White_Temple_XXI.jpg",
+        "credit": "Hans-Jürgen Neubert / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Chiang_Rai_-_Wat_Rong_Khun_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99_%282026%29_-_img_11.jpg/1280px-Chiang_Rai_-_Wat_Rong_Khun_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99_%282026%29_-_img_11.jpg",
+        "credit": "Chainwit. / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Wat_Rong_Khun-001.jpg/1280px-Wat_Rong_Khun-001.jpg",
+        "credit": "Ddalbiez / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating"
+    ]
+  },
+  {
+    "id": "wat-rong-suea-ten",
+    "city": "chiangrai",
+    "name": "Синий храм (Ват Ронг Суа Тен)",
+    "name_en": "Wat Rong Suea Ten (Blue Temple)",
+    "district": "Ринкхам, 3 км от центра Чианграя",
+    "categories": [
+      "culture"
+    ],
+    "tags": [
+      "free"
+    ],
+    "hidden_gem": false,
+    "short": "Сапфирово-синий храм с золотыми нагами и белым Буддой",
+    "description": "Яркий храм в насыщенном синем цвете с золотой резьбой, построенный учеником Чалермчая Коситпипата и открытый в 2016 году. Внутри — белоснежная статуя Будды на синем фоне и психоделические росписи на стенах и потолке. Компактный и бесплатный — легко совместить с Белым храмом и Чёрным домом за один день.",
+    "tip": "Заходите ближе к вечеру, когда автобусы с экскурсиями уже уехали, или сразу после открытия. Внутри зала фотографировать можно, но без вспышки и без поз спиной к Будде.",
+    "google_rating": 4.7,
+    "price_level": 1,
+    "price_text": "Вход бесплатный (пожертвования приветствуются)",
+    "hours": "Ежедневно ≈7:00–20:00",
+    "duration": "30–60 минут",
+    "best_time": "Утро до 9:00 или после 16:00",
+    "how_to_get": "Grab/Bolt из центра Чианграя ≈10 минут (≈60–100 ฿) или тук-тук. От часовой башни можно дойти пешком за ≈40 минут.",
+    "nuances": "Действующий храм: закрытые плечи и колени, обувь снимают у входа.",
+    "website": null,
+    "instagram": null,
+    "lat": 19.92336,
+    "lng": 99.84176,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=19.92336,99.84176",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg/1280px-Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg",
+        "credit": "Chainwit. / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_21.jpg/1280px-Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_21.jpg",
+        "credit": "Chainwit. / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_08.jpg/1280px-Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_08.jpg",
+        "credit": "Chainwit. / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ]
+  },
+  {
+    "id": "baan-dam",
+    "city": "chiangrai",
+    "name": "Чёрный дом (Баан Дам)",
+    "name_en": "Baan Dam Museum (Black House)",
+    "district": "Нанглэ, 13 км к северу от Чианграя",
+    "categories": [
+      "culture"
+    ],
+    "tags": [],
+    "hidden_gem": false,
+    "short": "Мрачный музей-парк художника Тхавана Дучани",
+    "description": "Антипод Белого храма — около 40 тёмных деревянных построек в стиле ланна на зелёной территории, созданных национальным художником Тхаваном Дучани. Внутри — шкуры, черепа, рога буйволов, кости и необычная мебель: художник исследовал тёмную сторону человеческой природы. Выглядит провокационно, но это музей современного искусства, а не храм.",
+    "tip": "Обязательно пройдите всю территорию до дальних павильонов — самые интересные постройки (белые купола и «корабль») не у входа. Совмещайте с Белым и Синим храмами: удобный порядок — Белый утром, Синий, затем Чёрный дом.",
+    "google_rating": 4.4,
+    "price_level": 1,
+    "price_text": "Вход 80 ฿, дети до 12 лет бесплатно",
+    "hours": "Ежедневно 9:00–17:00",
+    "duration": "1–1,5 часа",
+    "best_time": "Утро или после 15:00",
+    "how_to_get": "Grab/Bolt из центра Чианграя ≈20 минут (≈200 ฿). Местный автобус в сторону Мэсая (≈20 ฿) — высадка на трассе, затем ≈1 км пешком.",
+    "nuances": "Это частный музей, не храм — строгого дресс-кода нет, но некоторые экспонаты могут шокировать детей.",
+    "website": null,
+    "instagram": null,
+    "lat": 19.99115,
+    "lng": 99.86112,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=19.99115,99.86112",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg/1280px-Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg",
+        "credit": "Szwendam się / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Baan_Dum_%28Black_House%29_-_By_Thawan_Duchanee_-_Chiang_Rai_-_Thailand_-_06_%2835173590681%29.jpg/1280px-Baan_Dum_%28Black_House%29_-_By_Thawan_Duchanee_-_Chiang_Rai_-_Thailand_-_06_%2835173590681%29.jpg",
+        "credit": "Adam Jones from Kelowna, BC, Canada / CC BY-SA 2.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ]
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "mahanakhon-skywalk",
+    "city": "bangkok",
+    "name": "Маханакхон",
+    "name_en": "King Power Mahanakhon SkyWalk",
+    "district": "Силом, BTS Chong Nonsi",
+    "categories": [
+      "view"
+    ],
+    "tags": [
+      "sunset",
+      "night",
+      "romantic"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "short": "Небоскрёб со стеклянным полом на крыше, под которым видно весь город",
+    "description": "Знаменитое «пиксельное» здание Бангкока и одно из самых популярных мест у туристов. На крыше есть обзорная площадка, а на самом верху стеклянный пол: тебе выдают мягкие тапочки, ты встаёшь на стекло, и под тобой весь Бангкок. Прямо под ногами крыши других высоток. Невероятное зрелище.\n\nА ещё там есть популярный аттракцион i-Tilt: тебя укладывают в сетку и наклоняют за край здания, так что ты буквально лежишь над городом на высоте почти 300 метров. Билет на него покупается отдельно и только вместе с билетом на смотровую.\n\nМаханакхон часто называют самым высоким зданием в Бангкоке. На самом деле оно буквально на несколько метров уступает самому высокому, но самое заметное и популярное точно оно. В самом здании есть рестораны, мне очень нравится мексиканский Ojo.",
+    "tip": "Лучше приходить вечером, ближе к закрытию. Днём здесь очень много туристов, и наверху бывает тесно, а поздно вечером людей заметно меньше и можно спокойно всё посмотреть. Плюс видно, как красиво подсвечиваются здания. А если поужинать в Ojo, на смотровую пустят бесплатно.",
+    "note": "Небоскрёб со стеклянным полом на крыше, под которым видно весь город",
+    "stamp": "must see",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Смотровая 500–1 200 ฿, цена зависит от времени, закат дороже. Аттракцион i-Tilt около 450 ฿ сверху. С ужином в Ojo смотровая бесплатно",
+    "hours": "Ежедневно 10:00–00:00, последний вход в 23:00",
+    "duration": "1–1,5 часа",
+    "best_time": "Поздний вечер, ближе к закрытию: людей меньше, а город в подсветке",
+    "how_to_get": "BTS Chong Nonsi, от станции крытый переход прямо в здание",
+    "nuances": "На стеклянный пол телефон брать нельзя, его оставляют рядом.",
+    "website": "https://kingpowermahanakhon.co.th/",
+    "instagram": null,
+    "lat": 13.7233,
+    "lng": 100.5283,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=King%20Power%20Mahanakhon%20SkyWalk%2013.7233%2C100.5283",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mahanakhon_Building_%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_Photographed_by_Trisorn_Triboon.JPG/1280px-Mahanakhon_Building_%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_Photographed_by_Trisorn_Triboon.JPG",
+        "credit": "Tris_T7 / CC BY 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/TILT_Bkk.jpg/1280px-TILT_Bkk.jpg",
+        "credit": "WikiStefanRoos / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/King_Power_Mahanakhon_Rooftop_View_of_Bangkok.jpg/1280px-King_Power_Mahanakhon_Rooftop_View_of_Bangkok.jpg",
+        "credit": "Shivashanky / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/King_Power_Mahanakhon_from_below.jpg/1280px-King_Power_Mahanakhon_from_below.jpg",
+        "credit": "Shivashanky / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mahanakhon_2019_Novembre.jpg/1280px-Mahanakhon_2019_Novembre.jpg",
+        "credit": "Chainwit. / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "ojo-bangkok"
+    ],
+    "related_title": "В этом же здании",
+    "checked": "2026-10",
+    "unverified": [],
+    "priority": "must"
+  },
+  {
+    "id": "ojo-bangkok",
+    "city": "bangkok",
+    "name": "Ojo",
+    "name_en": "Ojo Bangkok",
+    "district": "Силом, 76-й этаж Маханакхона",
+    "categories": [
+      "restaurant",
+      "bar",
+      "view"
+    ],
+    "tags": [
+      "sunset",
+      "night",
+      "romantic"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "short": "Мексиканский ресторан на 76-м этаже с выходом на главную смотровую Бангкока в подарок",
+    "description": "Мексиканский ресторан на 76-м этаже Маханакхона, который мне очень нравится. Место безумно красивое: из окон видно весь город, а сам ресторан есть в гиде Michelin. Кухня мексиканская, поэтому непривычная, но очень вкусная и понятная даже тем, кто её раньше не пробовал.\n\nЦенник у заведения выше среднего, и сюда принято приходить нарядно, вполне уместен вечерний образ. А после ужина тебе дают бесплатный проход наверх, на смотровую со стеклянным полом.",
+    "tip": "Ресторан очень популярный, поэтому столик лучше бронировать заранее, где-то за неделю-полторы.",
+    "note": "Мексиканский ресторан на 76-м этаже с выходом на главную смотровую Бангкока в подарок",
+    "stamp": "на закат",
+    "google_rating": null,
+    "price_level": 3,
+    "price_text": "Ужин от ~2 500 ฿ на человека",
+    "hours": "Ужин ежедневно 17:30–23:30",
+    "duration": "2–3 часа",
+    "best_time": "Закат",
+    "how_to_get": "BTS Chong Nonsi, переход в Маханакхон, лифт отеля The Standard на 76-й этаж",
+    "nuances": "Одеться лучше нарядно, можно в вечернее. Шорты и шлёпанцы точно не подойдут.",
+    "website": null,
+    "instagram": "https://www.instagram.com/ojobangkok",
+    "lat": 13.7240573,
+    "lng": 100.5285357,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ojo%20Bangkok%2013.7240573%2C100.5285357",
+    "photos": [
+      {
+        "url": "data/photos/ojo-1.jpg",
+        "credit": "Фото автора",
+        "pos": "50% 64%"
+      }
+    ],
+    "related": [
+      "mahanakhon-skywalk"
+    ],
+    "related_title": "В этом же здании",
+    "checked": "2026-10",
+    "unverified": [
+      "Цена ориентировочная",
+      "Бесплатный проход на смотровую — со слов Насти"
+    ],
+    "priority": "time"
+  },
+  {
+    "id": "bacc-bangkok",
+    "city": "bangkok",
+    "name": "BACC",
+    "name_en": "Bangkok Art and Culture Centre",
+    "district": "Сиам, BTS National Stadium",
+    "categories": [
+      "art",
+      "shopping"
+    ],
+    "tags": [
+      "free",
+      "rain"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "short": "Бесплатный арт-центр, в котором на каждом этаже своя выставка",
+    "description": "Выставочный центр с круглой лестницей, которая очень красиво смотрится. Поднимаешься по ней с этажа на этаж, и на каждом что-то своё: картины на стенах, небольшие галереи, временные инсталляции. Всё это постоянно обновляется. А ещё почти на каждом этаже есть прикольные магазинчики местных брендов и сувениры, так что можно заодно и пошопиться.\n\nНа самом последнем этаже обычно идёт полноценная выставка, часто бесплатная и открытая для всех. Бывают и очень громкие, о которых потом много говорят.",
+    "tip": "Перед походом загляни на сайт BACC: там вся информация о выставках и мероприятиях, можно выбрать, что интересно. На некоторые выставки билеты нужно покупать заранее.",
+    "note": "Бесплатный арт-центр, в котором на каждом этаже своя выставка",
+    "stamp": "для души",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Вход бесплатный, на отдельные выставки — платные билеты",
+    "hours": "Вт–Вс 10:00–20:00, понедельник выходной",
+    "duration": "1,5–3 часа",
+    "best_time": "Будний день; отличный вариант, когда жарко или идёт дождь",
+    "how_to_get": "BTS National Stadium, переход прямо в здание. Напротив торговый центр MBK",
+    "nuances": "По понедельникам закрыто. Паспорт брать не нужно.",
+    "website": "https://www.bacc.or.th/en",
+    "instagram": null,
+    "lat": 13.7468,
+    "lng": 100.5303,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Art%20and%20Culture%20Centre%2013.7468%2C100.5303",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bangkok_Art_and_Culture_Centre_2.jpg/1280px-Bangkok_Art_and_Culture_Centre_2.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/BKK_Art_and_Culture_Centre_%28IV%29.jpg/1280px-BKK_Art_and_Culture_Centre_%28IV%29.jpg",
+        "credit": "Supanut Arunoprayote / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/BKK_Art_and_Culture_Centre_%28II%29.jpg/1280px-BKK_Art_and_Culture_Centre_%28II%29.jpg",
+        "credit": "Supanut Arunoprayote / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Exhibition_at_the_Bangkok_Art_and_Culture_Centre_1.jpg/1280px-Exhibition_at_the_Bangkok_Art_and_Culture_Centre_1.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "Выставку с картиной Путина и Зелёнского в источниках не нашла — в тексте написано обобщённо"
+    ],
+    "priority": "time"
+  },
+  {
+    "id": "iconsiam-sunset-cruise",
+    "city": "bangkok",
+    "name": "Круиз по реке на закате",
+    "name_en": "Chao Phraya sunset cruise from ICONSIAM",
+    "district": "Пирс ICONSIAM, река Чао Прайя",
+    "categories": [
+      "active",
+      "view",
+      "culture"
+    ],
+    "tags": [
+      "sunset",
+      "romantic",
+      "night"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "must",
+    "short": "Круиз на закате, с которого видно главные храмы и дворцы Бангкока",
+    "note": "Круиз на закате, с которого видно главные храмы и дворцы Бангкока",
+    "stamp": "must see",
+    "description": "От ICONSIAM по реке Чао Прайя ходят прогулочные паромы, которые делают круг по центру города. Есть варианты с музыкой и ужином по системе всё включено. Особенно красиво на закате.\n\nС реки видно главные достопримечательности: Ват Арун, Большой дворец, храм Ват Калаянамит, подсвеченный мост Рамы VIII. Это идеальный вариант для тех, кто не готов заходить в каждый храм отдельно, но хочет увидеть их все вживую.",
+    "tip": "Старайся сесть на верхнюю палубу поближе к перилам: оттуда лучше всего видно все достопримечательности.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Примерно 600–1 800 ฿, зависит от парома и того, что входит в билет: ужин, напитки, музыка",
+    "hours": "Чтобы попасть на закат, выбирай рейс с отправлением около 16:00–17:00. Ужины начинаются позже. Расписание у каждого парома своё",
+    "duration": "1,5–2 часа",
+    "best_time": "Отправление в 16:00–17:00, чтобы застать закат на воде",
+    "how_to_get": "Пирс ICONSIAM. Метро Gold Line до станции Charoen Nakhon или бесплатный паром ICONSIAM от пирса Sathorn у BTS Saphan Taksin",
+    "nuances": "Билет лучше купить заранее онлайн и сверить время посадки и номер пирса: у ICONSIAM их несколько.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.7266,
+    "lng": 100.5103,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ICONSIAM%20pier%2013.7266%2C100.5103",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Wat_Arun_on_the_sunset.jpg/1280px-Wat_Arun_on_the_sunset.jpg",
+        "credit": "Trip.with.taste / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Wat_Arun_At_Night_%2887462663%29.jpeg/1280px-Wat_Arun_At_Night_%2887462663%29.jpeg",
+        "credit": "Mark Fischer / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Iconsiam_at_Night_%28II%29.jpg/1280px-Iconsiam_at_Night_%28II%29.jpg",
+        "credit": "Supanut Arunoprayote / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Chao_Phraya_River_from_Iconsiam_at_night%2C_Bangkok.jpg/1280px-Chao_Phraya_River_from_Iconsiam_at_night%2C_Bangkok.jpg",
+        "credit": "Slyronit / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "Цены и расписание — по сайтам-перепродавцам, у разных паромов отличаются"
+    ],
+    "related": [
+      "wat-arun",
+      "grand-palace",
+      "wat-pho"
+    ],
+    "related_title": "Что видно с реки"
+  },
+  {
+    "id": "grand-palace",
+    "city": "bangkok",
+    "name": "Большой дворец",
+    "name_en": "The Grand Palace & Wat Phra Kaew",
+    "district": "Ратанакосин, старый город",
+    "categories": [
+      "culture"
+    ],
+    "tags": [],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "must",
+    "stamp": "must see",
+    "short": "Главный дворцовый комплекс страны, в котором находится храм Изумрудного Будды",
+    "note": "Главный дворцовый комплекс страны, в котором находится храм Изумрудного Будды",
+    "description": "Самое известное место Бангкока, с которого обычно и начинают знакомство с городом. Это бывшая резиденция королей: золотые ступы, расписные галереи, крыши с драконами. На этой же территории находится храм Изумрудного Будды, главная святыня Таиланда, так что за один билет видишь сразу и дворец, и храм.\n\nТуристов здесь очень много, но увидеть это хотя бы раз точно стоит.",
+    "tip": "Приходи к открытию, к 8:30, пока не так жарко и ещё нет толп. И не верь людям на улице, которые говорят, что дворец сегодня закрыт, и предлагают отвезти в другое место на тук-туке: это известный развод.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "500 ฿ для иностранцев (Большой дворец, Ват Пхра Кео и Музей текстиля), для тайцев бесплатно",
+    "hours": "Ежедневно 08:30–15:30 (касса до 15:30, территория до ~16:30)",
+    "duration": "2–3 часа",
+    "best_time": "Утро, к открытию",
+    "how_to_get": "MRT Sanam Chai, 10–15 минут пешком; или речной трамвай до пирса Tha Chang (N9), 5 минут",
+    "nuances": "Строгий дресс-код: закрытые плечи и колени, без прозрачной и обтягивающей одежды. Если одежда не подходит, у входа можно взять напрокат саронг. Иногда дворец закрывают на королевские церемонии, перед походом лучше проверить сайт royalgrandpalace.th.",
+    "website": "https://www.royalgrandpalace.th/en/home",
+    "instagram": null,
+    "lat": 13.749855799999999,
+    "lng": 100.4915765,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Grand%20Palace%2013.749855799999999%2C100.4915765",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/20160727_Grand_Palace_Bangkok_5405.jpg/1280px-20160727_Grand_Palace_Bangkok_5405.jpg",
+        "credit": "Jakub Hałun / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew%2C_Temple_of_Emerald_Buddha%2C_Bangkok%2C_Thailand.jpg/1280px-thumbnail.jpg",
+        "credit": "Basile Morin / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Temple_of_the_Emerald_Buddha.jpg/1280px-Temple_of_the_Emerald_Buddha.jpg",
+        "credit": "Nawit science / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "wat-pho",
+      "wat-arun"
+    ],
+    "related_title": "Рядом, можно обойти за один день",
+    "checked": "2026-10",
+    "unverified": []
+  },
+  {
+    "id": "wat-pho",
+    "city": "bangkok",
+    "name": "Ват Пхо",
+    "name_en": "Wat Pho (Wat Phra Chetuphon)",
+    "district": "Ратанакосин, старый город",
+    "categories": [
+      "culture",
+      "spa"
+    ],
+    "tags": [],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "must",
+    "stamp": "must see",
+    "short": "Храм с огромным золотым лежащим Буддой длиной 46 метров",
+    "note": "Храм с огромным золотым лежащим Буддой длиной 46 метров",
+    "description": "Храм в пяти минутах от Большого дворца, известный огромным лежащим Буддой длиной 46 метров, полностью покрытым золотом. Вживую он выглядит гораздо масштабнее, чем на фото. Вокруг большая территория с сотнями статуй Будды и разноцветными ступами.\n\nА ещё здесь находится главная школа тайского массажа, так что после прогулки можно сходить на массаж прямо при храме.",
+    "tip": "Удобно совместить с Большим дворцом: они в пяти минутах друг от друга. Билет лучше купить онлайн заранее, потому что на кассе часто принимают только наличные.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "300 ฿ для иностранцев, дети ниже 120 см бесплатно; массаж около 300–600 ฿",
+    "hours": "Ежедневно 08:00–18:30",
+    "duration": "1–1,5 часа",
+    "best_time": "Утро или после обеда, ближе к закрытию",
+    "how_to_get": "MRT Sanam Chai, 5 минут пешком; или речной трамвай до пирса Tha Tien (N8), 3 минуты",
+    "nuances": "Строгий дресс-код: закрытые плечи и колени, без прозрачной и обтягивающей одежды. Если одежда не подходит, у входа можно взять напрокат саронг. Перед входом в зал с лежащим Буддой обувь снимают.",
+    "website": "https://www.watphobooking.com",
+    "instagram": null,
+    "lat": 13.7464237,
+    "lng": 100.4927733,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Wat%20Pho%2013.7464237%2C100.4927733",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_02.jpg/1280px-Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_02.jpg",
+        "credit": "Diego Delso / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_07.jpg/1280px-Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_07.jpg",
+        "credit": "Diego Delso / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg/1280px-Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg",
+        "credit": "Diego Delso / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "grand-palace",
+      "wat-arun"
+    ],
+    "related_title": "Рядом, можно обойти за один день",
+    "checked": "2026-10",
+    "unverified": [
+      "Часы работы в источниках расходятся: до 18:30 или до 19:30"
+    ]
+  },
+  {
+    "id": "wat-arun",
+    "city": "bangkok",
+    "name": "Ват Арун",
+    "name_en": "Wat Arun (Temple of Dawn)",
+    "district": "Тонбури, на другом берегу реки",
+    "categories": [
+      "culture",
+      "view"
+    ],
+    "tags": [
+      "sunset"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "must",
+    "stamp": "на закат",
+    "short": "Храм Рассвета на берегу реки, который особенно красив на закате",
+    "note": "Храм Рассвета на берегу реки, который особенно красив на закате",
+    "description": "Храм на другом берегу реки с высокой башней, украшенной кусочками фарфора и ракушек. Днём по крутым ступеням можно подняться на одну из террас, а вечером храм подсвечивают, и с противоположного берега он выглядит особенно красиво.\n\nЕго отлично видно и с реки, если плыть на пароме на закате.",
+    "tip": "До храма удобно добраться на маленьком пароме через реку от пирса Tha Tien рядом с Ват Пхо. Получается логичный маршрут на один день: Большой дворец, Ват Пхо, а потом Ват Арун.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Вход 200 ฿ для иностранцев (тайцы бесплатно)",
+    "hours": "Ежедневно 8:00–18:00 (последний вход около 17:30)",
+    "duration": "1 час",
+    "best_time": "Днём, чтобы подняться на террасу, или вечером, чтобы посмотреть на подсветку с другого берега",
+    "how_to_get": "Речной трамвай Chao Phraya Express (оранжевый флаг) до пирса Tha Tien (N8), затем паром-переправа через реку за 5 ฿ к пирсу Wat Arun. От Ват Пхо пешком 5 минут до переправы. Ближайшее метро — MRT Sanam Chai (10 минут пешком до Tha Tien).",
+    "nuances": "Строгий дресс-код: закрытые плечи и колени, без прозрачной и обтягивающей одежды. Если одежда не подходит, у входа можно взять напрокат саронг. Подъём на башню очень крутой, осторожно с детьми.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.74361,
+    "lng": 100.48889,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Wat%20Arun%2013.74361%2C100.48889",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Wat_Arun_Sunset.jpg/1280px-Wat_Arun_Sunset.jpg",
+        "credit": "miketnorton / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Wat_Arun_Ratchawararam_and_the_Royal_Barge_Procession.jpg/1280px-Wat_Arun_Ratchawararam_and_the_Royal_Barge_Procession.jpg",
+        "credit": "Tee-12838 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Wat_Arun_in_2023.jpg/1280px-Wat_Arun_in_2023.jpg",
+        "credit": "Radek Kucharski / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Wat_Arun_Ratchawararam_Ratchawaramahawihan_Temple.jpg/1280px-Wat_Arun_Ratchawararam_Ratchawaramahawihan_Temple.jpg",
+        "credit": "Krishnagopi06 / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "grand-palace",
+      "wat-pho",
+      "iconsiam-sunset-cruise"
+    ],
+    "related_title": "Рядом и по теме",
+    "checked": "2026-10",
+    "unverified": []
+  },
+  {
+    "id": "yaowarat-chinatown",
+    "city": "bangkok",
+    "name": "Чайна-таун (Яоварат)",
+    "name_en": "Yaowarat Chinatown",
+    "district": "Самфантхавонг",
+    "categories": [
+      "food",
+      "shopping"
+    ],
+    "tags": [
+      "night"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Китайский квартал с уличной едой, неоновыми вывесками и знаменитыми булочками",
+    "note": "Китайский квартал с уличной едой, неоновыми вывесками и знаменитыми булочками",
+    "description": "Китайский квартал Бангкока: неоновые вывески, уличная еда, лавки и толпы людей. Атмосферно и аутентично. Здесь продают знаменитые жареные булочки с разными начинками, за которыми выстраиваются огромные очереди. А ещё есть большая карта квартала, по которой удобно понять, что где находится.\n\nЧестно скажу, лично меня Чайна-таун не так сильно впечатлил, хотя, может быть, я видела не всё. Многие его очень любят, так что, если есть время, сходить посмотреть стоит.",
+    "tip": "Приходи вечером: уличная еда открывается ближе к закату, и квартал оживает. За булочками лучше вставать в очередь пораньше, к открытию лавки.",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Вход свободный, уличная еда от 30–100 ฿",
+    "hours": "Лучше вечером, примерно с 17:00 до полуночи. По понедельникам многие уличные лавки не работают",
+    "duration": "2–3 часа",
+    "best_time": "Вечер",
+    "how_to_get": "MRT Wat Mangkon, выход прямо на Яоварат",
+    "nuances": null,
+    "website": null,
+    "instagram": null,
+    "lat": 13.7398,
+    "lng": 100.5094,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Yaowarat%20Road%2013.7398%2C100.5094",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yaowarat_at_night_%2832455695783%29.jpg/1280px-Yaowarat_at_night_%2832455695783%29.jpg",
+        "credit": "Ninara / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Yaowarat_Road_at_night.jpg/1280px-Yaowarat_Road_at_night.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Coming_Through_%28Unsplash%29.jpg/1280px-Coming_Through_%28Unsplash%29.jpg",
+        "credit": "Ryan Tang / CC0 (Wikimedia Commons)",
+        "pos": "50% 40%"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "Понедельник как выходной у уличных лавок — общеизвестно, официально не подтверждено"
+    ]
+  },
+  {
+    "id": "erawan-museum",
+    "city": "bangkok",
+    "name": "Музей Эраван",
+    "name_en": "The Erawan Museum",
+    "district": "Самутпракан, к югу от Бангкока",
+    "categories": [
+      "culture",
+      "art"
+    ],
+    "tags": [
+      "rain"
+    ],
+    "local": true,
+    "hidden_gem": true,
+    "priority": "long",
+    "stamp": "для души",
+    "short": "Храм-музей внутри гигантского трёхголового слона",
+    "note": "Храм-музей внутри гигантского трёхголового слона",
+    "description": "Храм-музей внутри огромной статуи трёхголового слона. Внутри всё расписано и украшено: витражный потолок, резные лестницы, старинные статуи, а на самом верху, прямо в животе у слона, небольшое святилище. Мне здесь очень понравилось.\n\nЭто не самое известное и не самое масштабное место, к тому же далеко от центра, поэтому, если в Бангкоке всего пару дней, ехать сюда, наверное, не стоит. Но если времени больше, очень советую.",
+    "tip": "Добираться удобно на BTS до станции Chang Erawan, а оттуда несколько минут на такси.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Около 500 ฿ для взрослых",
+    "hours": "Ежедневно 9:00–18:00, последний вход в 17:00",
+    "duration": "1,5–2 часа",
+    "best_time": "Днём, в будни меньше людей",
+    "how_to_get": "BTS Chang Erawan, затем несколько минут на такси",
+    "nuances": "Нужно закрыть плечи и колени: в шортах, мини-юбках, майках и шлёпанцах не пустят.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.6286,
+    "lng": 100.5878,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Erawan%20Museum%2013.6286%2C100.5878",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Erawan_museum-001.jpg/1280px-Erawan_museum-001.jpg",
+        "credit": "Ddalbiez / CC BY-SA 3.0 (Wikimedia Commons)",
+        "pos": "50% 30%"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Erawan_Museum_by_Don_Ramey_Logan.jpg/1280px-Erawan_Museum_by_Don_Ramey_Logan.jpg",
+        "credit": "Don Ramey Logan / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Erawan_museum-003.jpg/1280px-Erawan_museum-003.jpg",
+        "credit": "Ddalbiez / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%93_Sunset%40ERAWAN_-_panoramio.jpg/1280px-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%93_Sunset%40ERAWAN_-_panoramio.jpg",
+        "credit": "::::=UT=:::: / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "Цена: в источниках от 400 до 500 ฿",
+      "Сайт музея не проверен"
+    ]
+  }
+]
