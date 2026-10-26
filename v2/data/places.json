@@ -946,5 +946,59 @@
     "unverified": [
       "Цена ориентировочная"
     ]
+  },
+  {
+    "id": "rajadamnern-muay-thai",
+    "city": "bangkok",
+    "name": "Тайский бокс на стадионе Раджадамнерн",
+    "name_en": "Rajadamnern Stadium (Muay Thai)",
+    "district": "Старый город, у Монумента Демократии",
+    "categories": [
+      "culture",
+      "active"
+    ],
+    "tags": [
+      "night",
+      "rain"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Вечер тайского бокса на самом старом и главном стадионе страны",
+    "note": "Вечер тайского бокса на самом старом и главном стадионе страны",
+    "description": "Муай-тай, или тайский бокс, — главный спорт Таиланда, и сходить на бои очень интересно: это не только спорт, но и погружение в культуру и традиции. Раджадамнерн — самый старый стадион тайского бокса в стране, его открыли в 1945 году.\n\nКогда заходишь на стадион, на потолок проецируют видео об истории муай-тай. Перед каждым боем соперники исполняют традиционный ритуальный танец вай кру. А между боями проходят развлекательные шоу и активности с публикой.\n\nПонятно, что смотреть на такой жёсткий вид спорта нравится не всем. Но если тебе интересно, это необычный опыт, который точно запомнится.",
+    "tip": "Приходи к началу вечера: некоторые бои очень быстро заканчиваются нокаутом. Билеты удобно купить онлайн заранее, особенно на субботу, когда проходит главный турнир.",
+    "google_rating": null,
+    "price_level": 3,
+    "price_text": "Билеты примерно от 1 000 до 3 500 ฿ в зависимости от места",
+    "hours": "Бои каждый вечер, начало в 18:00–19:00. По субботам — главный турнир Rajadamnern World Series",
+    "duration": "2–3 часа",
+    "best_time": "Вечер, лучше в субботу",
+    "how_to_get": "Ближайшего метро нет, удобнее на Grab или такси. Стадион в старом городе, рядом с Монументом Демократии",
+    "nuances": "Бои довольно жёсткие, учитывай это, если идёшь с детьми.",
+    "website": "https://www.rajadamnern.com",
+    "instagram": null,
+    "lat": 13.7576,
+    "lng": 100.5085,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Rajadamnern%20Stadium%2013.7576%2C100.5085",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Rajadamnern_Stadium.jpg/1280px-Rajadamnern_Stadium.jpg",
+        "credit": "DiverDave / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_10.JPG",
+        "credit": "BrokenSphere / CC BY 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rajadamnern_Stadium_3.jpg",
+        "credit": "kwankwan / CC BY 2.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "Шоу с проекцией на потолке — со слов автора"
+    ]
   }
 ]
