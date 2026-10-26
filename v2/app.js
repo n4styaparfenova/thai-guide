@@ -37,9 +37,10 @@
   ];
   // Темы на главной: «что я люблю». Показываются только те, где есть места.
   const THEMES = [
-    { id: "cafe", name: "Кофейни", emoji: "☕", cats: ["cafe"], c: "#e0531f" },
     { id: "eat", name: "Где поесть", emoji: "🍽", cats: ["restaurant", "food"], c: "#7a3b2e" },
     { id: "bar", name: "Бары и руфтопы", emoji: "🍸", cats: ["bar", "party"], c: "#1f1d1b" },
+    // always: плитка видна, даже пока мест нет (на ней «скоро»)
+    { id: "cafe", name: "Кофейни", emoji: "☕", cats: ["cafe"], c: "#e0531f", always: true, soon: "Скоро здесь появятся мои любимые кофейни" },
     { id: "art", name: "Арт и события", emoji: "🎨", cats: ["art", "events"], c: "#3a4a6b" },
     { id: "park", name: "Парки и природа", emoji: "🌳", cats: ["park", "nature"], c: "#2f5d50" },
     { id: "sweets", name: "Сладкое", emoji: "🍰", cats: ["sweets"], c: "#d8c7a6", t: "#161514" },
@@ -249,6 +250,8 @@
     const bar = `<div class="bar"><span class="count">${placesWord(list.length)}</span><div class="seg"><button class="${f.view === "list" ? "on" : ""}" data-view="list">Список</button><button class="${f.view === "map" ? "on" : ""}" data-view="map">Карта</button></div></div>`;
     const filtered = f.cat !== "all" || f.tags.size || f.city;
     if (!list.length && !filtered) return `<div class="empty"><div class="e">✎</div><b>Скоро здесь появятся мои места</b>Я добавляю их по одному, только проверенные</div>`;
+    const soonTheme = f.cat.startsWith("t:") && !f.tags.size ? THEMES.find((t) => t.id === f.cat.slice(2) && t.soon) : null;
+    if (!list.length && soonTheme) return `<div class="empty"><div class="e">${soonTheme.emoji}</div><b>${esc(soonTheme.soon)}</b>Я добавляю места по одному, только проверенные<br><button class="chip on" data-action="reset">Показать все места</button></div>`;
     if (!list.length) return bar + `<div class="empty"><div class="e">∅</div><b>Ничего не нашлось</b>Убери часть фильтров<br><button class="chip on" data-action="reset">Сбросить</button></div>`;
     return bar + (f.view === "map" ? `<div id="map" class="map"></div>` : feed(list, opts));
   }
@@ -263,13 +266,13 @@
     const local = all.filter(isLocal).length;
     // Плитки тем — только по этому городу и только непустые; нажатие фильтрует ленту ниже
     // «Достопримечательности» всегда последней широкой плиткой; если остальных нечётное число, растягиваем и последнюю из них
-    const shown = THEMES.map((t) => ({ ...t, n: all.filter((p) => inTheme(p, t)).length })).filter((t) => t.n > 0);
+    const shown = THEMES.map((t) => ({ ...t, n: all.filter((p) => inTheme(p, t)).length })).filter((t) => t.n > 0 || t.always);
     const rest = shown.filter((t) => t.id !== "classic");
     const ordered = [...rest, ...shown.filter((t) => t.id === "classic")];
     const themes = ordered
       .map((t, i) => `
         <button class="theme ${t.id === "classic" || (rest.length % 2 && i === rest.length - 1) ? "wide" : ""}" style="--c:${t.c};${t.t ? `--t:${t.t}` : ""}" data-cat="t:${t.id}" data-jump="1">
-          <span class="e">${t.emoji}</span><span class="cnt">${pad(t.n)}</span><b>${esc(t.name)}</b>
+          <span class="e">${t.emoji}</span><span class="cnt">${t.n ? pad(t.n) : "скоро"}</span><b>${esc(t.name)}</b>
         </button>`).join("");
     const ways = local && local < all.length ? `
         <div class="sec"><h2>Два взгляда</h2><span>выбери свой</span></div>
