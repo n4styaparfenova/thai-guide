@@ -36,8 +36,9 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=King%20Power%20Mahanakhon%20SkyWalk%2013.7233%2C100.5283",
     "photos": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mahanakhon_Building_%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_Photographed_by_Trisorn_Triboon.JPG/1280px-Mahanakhon_Building_%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_Photographed_by_Trisorn_Triboon.JPG",
-        "credit": "Tris_T7 / CC BY 3.0 (Wikimedia Commons)"
+        "url": "data/photos/mahanakhon-1.jpg",
+        "credit": "Фото автора",
+        "pos": "50% 10%"
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/TILT_Bkk.jpg/1280px-TILT_Bkk.jpg",
@@ -48,12 +49,9 @@
         "credit": "Shivashanky / CC BY-SA 4.0 (Wikimedia Commons)"
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/King_Power_Mahanakhon_from_below.jpg/1280px-King_Power_Mahanakhon_from_below.jpg",
-        "credit": "Shivashanky / CC BY-SA 4.0 (Wikimedia Commons)"
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mahanakhon_2019_Novembre.jpg/1280px-Mahanakhon_2019_Novembre.jpg",
-        "credit": "Chainwit. / CC BY-SA 4.0 (Wikimedia Commons)"
+        "url": "data/photos/mahanakhon-2.jpg",
+        "credit": "Фото автора",
+        "pos": "50% 45%"
       }
     ],
     "related": [
