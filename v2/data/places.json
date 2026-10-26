@@ -1914,5 +1914,58 @@
     "unverified": [
       "Цена колеса обозрения не подтверждена официально"
     ]
+  },
+  {
+    "id": "lv-the-place",
+    "city": "bangkok",
+    "name": "LV The Place Bangkok",
+    "name_en": "LV The Place Bangkok",
+    "district": "Чидлом, Gaysorn Amarin",
+    "categories": [
+      "art",
+      "shopping"
+    ],
+    "tags": [
+      "free",
+      "rain",
+      "instagram"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Здание Louis Vuitton с бесплатной выставкой о бренде, кафе и рестораном",
+    "note": "Здание Louis Vuitton с бесплатной выставкой о бренде, кафе и рестораном",
+    "description": "Целое здание Louis Vuitton, открытое в 2024 году. Фасад с колоннами покрыт огромными объёмными «звёздами» из фирменной монограммы, так что это одна из самых фотогеничных точек Бангкока.\n\nВнутри, помимо бутика, есть бесплатная выставка Visionary Journeys об истории и путешествиях бренда: сейчас она посвящена коллекции Louis Vuitton x Murakami, а на входе стоит инсталляция из 96 фирменных сундуков. Здесь же работают Le Café Louis Vuitton и ресторан Gaggan at Louis Vuitton от знаменитого шефа Гаггана Ананда.",
+    "tip": "Вход на выставку бесплатный, но время нужно забронировать заранее на сайте Louis Vuitton: на выходные слоты разбирают быстро.",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Выставка бесплатная по записи, кафе и ресторан — по меню",
+    "hours": "Выставка ежедневно 10:00–20:00",
+    "duration": "1 час",
+    "best_time": "Будний день",
+    "how_to_get": "BTS Chit Lom, переход в Gaysorn Amarin",
+    "nuances": null,
+    "website": "https://au.louisvuitton.com/eng-au/point-of-sale/thailand/louis-vuitton-bangkok-the-place-visionary-journeys",
+    "instagram": null,
+    "lat": 13.743512,
+    "lng": 100.5412971,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=LV%20The%20Place%20Bangkok%2013.743512%2C100.5412971",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Louis_Vuitton_Gaysorn_Amarin_20240229.jpg/1280px-Louis_Vuitton_Gaysorn_Amarin_20240229.jpg",
+        "credit": "DMS WIKI / CC BY-SA 4.0 (Wikimedia Commons)",
+        "pos": "50% 40%"
+      }
+    ],
+    "related": [
+      "centralworld"
+    ],
+    "related_title": "Рядом",
+    "checked": "2026-10",
+    "unverified": [
+      "Тема выставки может смениться",
+      "Часы ресторана Gaggan не проверены"
+    ]
   }
 ]
