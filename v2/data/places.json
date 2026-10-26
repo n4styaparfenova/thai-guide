@@ -1734,5 +1734,59 @@
     ],
     "note": "Скандинавская пекарня-кафе с сэндвичами на хлебе на закваске",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=BARTELS%20Asok%20%E2%80%93%20Sourdough%20Sandwiches%2C%20Coffee%20%26%20Juicery%2013.7384148%2C100.5590143"
+  },
+  {
+    "id": "sirocco-lebua",
+    "city": "bangkok",
+    "name": "Sirocco",
+    "name_en": "Sirocco at lebua State Tower",
+    "district": "Силом, 63-й этаж lebua at State Tower",
+    "categories": [
+      "restaurant",
+      "bar",
+      "view"
+    ],
+    "tags": [
+      "night",
+      "sunset",
+      "romantic",
+      "instagram"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": "на закат",
+    "short": "Легендарный ресторан под открытым небом на крыше lebua с видом на реку и весь город",
+    "note": "Легендарный ресторан под открытым небом на крыше lebua с видом на реку и весь город",
+    "description": "Одна из самых известных крыш мира: ресторан под открытым небом на 63-м этаже небоскрёба lebua at State Tower, рядом с подсвеченным золотым куполом. Средиземноморская кухня, живой джаз и вид на 360 градусов на реку Чао Прайя и весь Бангкок. По соседству находится Sky Bar, где снимали «Мальчишник 2».\n\nЭто место для особого вечера: дорогое, торжественное и очень красивое.",
+    "tip": "Если ужин не входит в планы, можно подняться в соседний Sky Bar на коктейль к закату: вид почти тот же, а бронировать не нужно.",
+    "google_rating": null,
+    "price_level": 3,
+    "price_text": "Дегустационное меню около 6 500 ฿ плюс сервисный сбор и налог, коктейли от ~1 000 ฿",
+    "hours": "Ежедневно примерно 17:30–00:30",
+    "duration": "2–3 часа",
+    "best_time": "Закат",
+    "how_to_get": "BTS Saphan Taksin, 5–7 минут пешком; пирс Sathorn (Central Pier)",
+    "nuances": "Строгий дресс-код: мужчинам рубашка с воротником или поло и закрытая обувь, без спортивной одежды и шлёпанцев. Ужин бронируется заранее с депозитом. В непогоду терраса может закрываться.",
+    "website": "https://lebua.com/restaurants/sirocco",
+    "instagram": null,
+    "lat": 13.721927899999999,
+    "lng": 100.5170543,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sirocco%20lebua%2013.721927899999999%2C100.5170543",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Lebua_at_State_Tower_IMG_1399_01.jpg/1280px-Lebua_at_State_Tower_IMG_1399_01.jpg",
+        "credit": "Na derdingseben / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "le-du-kaan",
+      "nobu-bangkok"
+    ],
+    "related_title": "Ещё рестораны с видом",
+    "checked": "2026-10",
+    "unverified": [
+      "Цены по агрегаторам, официально не подтверждены"
+    ]
   }
 ]
