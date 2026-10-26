@@ -524,5 +524,116 @@
       "Цена: в источниках от 400 до 500 ฿",
       "Сайт музея не проверен"
     ]
+  },
+  {
+    "id": "lumpini-park",
+    "city": "bangkok",
+    "name": "Парк Люмпини",
+    "name_en": "Lumphini Park",
+    "district": "Силом / Ратчадамри",
+    "categories": [
+      "park"
+    ],
+    "tags": [
+      "free",
+      "kids"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Самый известный парк Бангкока, в котором по газонам гуляют вараны",
+    "note": "Самый известный парк Бангкока, в котором по газонам гуляют вараны",
+    "description": "Самый известный и один из самых больших парков Бангкока. Выглядит очень круто: высотки прямо на фоне озера. Здесь много бегают и катаются на велосипедах, а на лужайках стоят кресла-мешки и лежаки, где можно посидеть с книжкой и отдохнуть.\n\nВ парке живут вараны, они спокойно гуляют по газонам и плавают в озере. Ещё можно встретить цапель, черепах и рыбок.\n\nПо вечерам на главной площади проходят массовые тренировки под музыку, присоединиться может любой. Я несколько раз на них натыкалась, это прикольно.",
+    "tip": "Если окажешься в парке в 18:00, не удивляйся: включают гимн, и все вокруг на минуту останавливаются. Лучше тоже постоять. А из Люмпини по пешеходному мосту можно дойти до парка Бенчакитти.",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Вход бесплатный",
+    "hours": "Ежедневно примерно 4:30–21:00",
+    "duration": "1–2 часа",
+    "best_time": "Утро или вечер, когда не так жарко. Тренировки — примерно с 17:00 до 19:00",
+    "how_to_get": "MRT Lumphini или Silom, BTS Sala Daeng",
+    "nuances": "Вараны не опасны, но подходить к ним близко и кормить их не стоит. На велосипеде в парк пускают только с 10:00 до 15:00.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.7314,
+    "lng": 100.5414,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Lumphini%20Park%2013.7314%2C100.5414",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bangkok_-_49531280958.jpg/1280px-Bangkok_-_49531280958.jpg",
+        "credit": "Sergei Gussev / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bangkok%2C_Thailand_%2850820216338%29.jpg/1280px-Bangkok%2C_Thailand_%2850820216338%29.jpg",
+        "credit": "Nina R / CC BY 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2013_03_27_Lumpini_Park_%284%29.jpg/1280px-2013_03_27_Lumpini_Park_%284%29.jpg",
+        "credit": "Joachim Lutz / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2013_03_27_Lumpini_Park_%283%29.jpg/1280px-2013_03_27_Lumpini_Park_%283%29.jpg",
+        "credit": "Joachim Lutz / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "benjakitti-park"
+    ],
+    "related_title": "Можно дойти пешком по мосту",
+    "checked": "2026-10",
+    "unverified": [
+      "Часы работы в источниках от 4:30 до 5:00 утра"
+    ]
+  },
+  {
+    "id": "benjakitti-park",
+    "city": "bangkok",
+    "name": "Парк Бенчакитти",
+    "name_en": "Benjakitti Forest Park",
+    "district": "Асок / Клонгтой",
+    "categories": [
+      "park"
+    ],
+    "tags": [
+      "free"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": "мой фаворит",
+    "short": "Парк вокруг озера с беговой дорожкой под пальмами и лесной частью",
+    "note": "Парк вокруг озера с беговой дорожкой под пальмами и лесной частью",
+    "description": "Раньше это был мой самый любимый парк. Он сделан в виде кольца вокруг большого озера, и вдоль воды идёт беговая дорожка, по которой очень много людей бегают по кругу. Самое красивое — идти под пальмами в тени вдоль озера, а на фоне видны высотки.\n\nРядом с озером есть ещё лесная часть с прикольными дорожками, в том числе подвесной тропой над водой. Чем-то напоминает парк Горького в Москве.\n\nПрямо у парка находится конференц-центр Queen Sirikit, где часто проходят выставки и конференции, так что во время прогулки можно заглянуть и туда. Там же можно поесть, выпить кофе и сходить в туалет.\n\nА ещё между Бенчакитти и Люмпини есть пешеходный мост, недавно его полностью обновили. По нему можно прогуляться из одного парка в другой. Многие бегуны так и делают: бегают в одном парке, потом перебегают по мосту и бегают в другом.",
+    "tip": "На большей части моста почти нет тени, поэтому если идёшь без головного убора, лучше выбрать вечернее время.",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Вход бесплатный",
+    "hours": "Ежедневно примерно 5:00–21:00",
+    "duration": "1–2 часа",
+    "best_time": "Утро или вечер, когда не так жарко",
+    "how_to_get": "MRT Queen Sirikit National Convention Centre, выход прямо к парку",
+    "nuances": null,
+    "website": null,
+    "instagram": null,
+    "lat": 13.7291,
+    "lng": 100.5548,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Benjakitti%20Forest%20Park%2013.7291%2C100.5548",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Benjakitti_Park_Panorama%2C_Bangkok.jpg/1280px-Benjakitti_Park_Panorama%2C_Bangkok.jpg",
+        "credit": "Slyronit / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Benjakitti_Forest_Park_%28I%29.jpg/1280px-Benjakitti_Forest_Park_%28I%29.jpg",
+        "credit": "Supanut Arunoprayote / CC BY 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "lumpini-park"
+    ],
+    "related_title": "Можно дойти пешком по мосту",
+    "checked": "2026-10",
+    "unverified": []
   }
 ]
