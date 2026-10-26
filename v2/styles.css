@@ -68,7 +68,7 @@ img { display: block; max-width: 100%; }
 .themes { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 0 16px; }
 .theme { position: relative; text-align: left; padding: 14px; min-height: 104px; display: flex; flex-direction: column; justify-content: space-between; background: var(--c); color: var(--t, #fff); transition: transform 0.15s; overflow: hidden; }
 .theme:active { transform: scale(0.97); }
-.theme:last-child:nth-child(odd) { grid-column: span 2; min-height: 84px; }
+.theme.wide { grid-column: span 2; min-height: 84px; }
 .theme .e { font-size: 26px; line-height: 1; }
 .theme b { font-family: var(--display); font-size: 15px; font-weight: 700; line-height: 1.15; hyphens: auto; -webkit-hyphens: auto; overflow-wrap: anywhere; }
 .theme .cnt { position: absolute; top: 12px; right: 12px; font-family: var(--mono); font-size: 11.5px; opacity: 0.85; }

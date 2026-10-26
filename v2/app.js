@@ -262,9 +262,13 @@
     const list = applyFilters(all, f);
     const local = all.filter(isLocal).length;
     // Плитки тем — только по этому городу и только непустые; нажатие фильтрует ленту ниже
-    const themes = THEMES.map((t) => ({ ...t, n: all.filter((p) => inTheme(p, t)).length })).filter((t) => t.n > 0)
-      .map((t) => `
-        <button class="theme" style="--c:${t.c};${t.t ? `--t:${t.t}` : ""}" data-cat="t:${t.id}" data-jump="1">
+    // «Достопримечательности» всегда последней широкой плиткой; если остальных нечётное число, растягиваем и последнюю из них
+    const shown = THEMES.map((t) => ({ ...t, n: all.filter((p) => inTheme(p, t)).length })).filter((t) => t.n > 0);
+    const rest = shown.filter((t) => t.id !== "classic");
+    const ordered = [...rest, ...shown.filter((t) => t.id === "classic")];
+    const themes = ordered
+      .map((t, i) => `
+        <button class="theme ${t.id === "classic" || (rest.length % 2 && i === rest.length - 1) ? "wide" : ""}" style="--c:${t.c};${t.t ? `--t:${t.t}` : ""}" data-cat="t:${t.id}" data-jump="1">
           <span class="e">${t.emoji}</span><span class="cnt">${pad(t.n)}</span><b>${esc(t.name)}</b>
         </button>`).join("");
     const ways = local && local < all.length ? `
