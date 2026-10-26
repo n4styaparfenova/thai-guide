@@ -687,50 +687,6 @@
     "unverified": []
   },
   {
-    "id": "dusit-central-park-mall",
-    "city": "bangkok",
-    "name": "ТЦ Dusit Central Park",
-    "name_en": "Dusit Central Park",
-    "district": "Силом, напротив Люмпини",
-    "categories": [
-      "shopping"
-    ],
-    "tags": [
-      "rain"
-    ],
-    "local": true,
-    "hidden_gem": false,
-    "priority": "long",
-    "stamp": null,
-    "short": "Торговый центр напротив Люмпини, в котором много местных тайских брендов",
-    "note": "Торговый центр напротив Люмпини, в котором много местных тайских брендов",
-    "description": "Торговый центр напротив парка Люмпини. Сам по себе он обычный, но здесь много местных тайских брендов, так что если будешь рядом, можно зайти по пути. А вот за шопингом в популярных сетевых магазинах я бы посоветовала другие торговые центры.\n\nГлавное здесь — парк на крыше, о нём отдельная карточка.",
-    "tip": "Если идёшь в парк на крыше, загляни по пути на этажи с тайскими брендами: там бывают интересные вещи, которых нет в обычных сетевых магазинах.",
-    "google_rating": null,
-    "price_level": 2,
-    "price_text": "Вход свободный",
-    "hours": "Ежедневно примерно 10:00–22:00",
-    "duration": "1 час",
-    "best_time": null,
-    "how_to_get": "BTS Sala Daeng или MRT Silom, крытый переход прямо в здание",
-    "nuances": null,
-    "website": null,
-    "instagram": null,
-    "lat": 13.7287,
-    "lng": 100.5376,
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Dusit%20Central%20Park%2013.7287%2C100.5376",
-    "photos": [],
-    "related": [
-      "dusit-arun-roof-park",
-      "lumpini-park"
-    ],
-    "related_title": "В этом же здании и рядом",
-    "checked": "2026-10",
-    "unverified": [
-      "Часы работы ТЦ — типовые, не проверены"
-    ]
-  },
-  {
     "id": "dusit-arun-roof-park",
     "city": "bangkok",
     "name": "Парк на крыше Dusit Central Park",
@@ -786,10 +742,9 @@
       }
     ],
     "related": [
-      "dusit-central-park-mall",
       "lumpini-park"
     ],
-    "related_title": "В этом же здании и рядом",
+    "related_title": "Рядом",
     "checked": "2026-10",
     "unverified": [
       "Бесплатный вход — по описаниям открытия 2025"
