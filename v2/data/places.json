@@ -237,7 +237,8 @@
     "related": [
       "wat-arun",
       "grand-palace",
-      "wat-pho"
+      "wat-pho",
+      "iconsiam"
     ],
     "related_title": "Что видно с реки"
   },
@@ -997,6 +998,112 @@
         "credit": "DiverDave / CC BY-SA 4.0 (Wikimedia Commons)"
       }
     ],
+    "checked": "2026-10",
+    "unverified": []
+  },
+  {
+    "id": "centralworld",
+    "city": "bangkok",
+    "name": "CentralWorld",
+    "name_en": "CentralWorld",
+    "district": "Сиам / Ратчапрасонг",
+    "categories": [
+      "shopping"
+    ],
+    "tags": [
+      "rain"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Огромный торговый центр в самом центре города с магазинами на любой вкус",
+    "note": "Огромный торговый центр в самом центре города с магазинами на любой вкус",
+    "description": "Один из самых больших торговых центров Таиланда, по общей площади он даже больше ICONSIAM. Здесь можно найти всё для шопинга: самые популярные масс-маркет бренды вроде Uniqlo, Zara и H&M, а на первом этаже есть и люкс. В общем, магазины на любой спрос.\n\nЕдинственное, из-за размеров и планировки здесь легко запутаться.",
+    "tip": "Если идёшь за чем-то конкретным, сразу посмотри на схеме у входа, на каком этаже нужный магазин. Так сэкономишь кучу времени.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Вход свободный",
+    "hours": "Ежедневно 10:00–22:00",
+    "duration": "2–4 часа",
+    "best_time": "Будний день, когда меньше людей",
+    "how_to_get": "BTS Chit Lom или Siam, крытый переход по скайуоку прямо в здание",
+    "nuances": null,
+    "website": "https://www.centralworld.co.th",
+    "instagram": null,
+    "lat": 13.7466,
+    "lng": 100.5393,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=CentralWorld%2013.7466%2C100.5393",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Central_World_%28I%29.jpg/1280px-Central_World_%28I%29.jpg",
+        "credit": "Supanut Arunoprayote / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/CentralWorld_exterior.jpg/1280px-CentralWorld_exterior.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/CentralWorld%D8%8C_Bangkok%D8%8C_Christmas_tree.jpg/1280px-CentralWorld%D8%8C_Bangkok%D8%8C_Christmas_tree.jpg",
+        "credit": "غریبه ای در شهر / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": []
+  },
+  {
+    "id": "iconsiam",
+    "city": "bangkok",
+    "name": "ICONSIAM",
+    "name_en": "ICONSIAM",
+    "district": "Клонгсан, на берегу реки Чао Прайя",
+    "categories": [
+      "shopping",
+      "food"
+    ],
+    "tags": [
+      "rain",
+      "instagram"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Роскошный торговый центр на берегу реки, ставший визитной карточкой Бангкока",
+    "note": "Роскошный торговый центр на берегу реки, ставший визитной карточкой Бангкока",
+    "description": "Брендовый торговый центр на берегу реки Чао Прайя, который считается одной из визитных карточек Бангкока: его часто снимают и выкладывают в соцсетях, и он правда очень красивый. Здесь широко представлены бренды, в том числе люкс: Hermès, Dior, Gucci, Prada и другие.\n\nНа первом этаже есть SookSiam — крытый рынок в стиле плавучего, где собрана еда со всех провинций Таиланда.\n\nСпециально ехать сюда за шопингом не обязательно, но если в этот день катаешься на кораблике по реке или живёшь неподалёку, обязательно загляни.",
+    "tip": "Удобно совместить с круизом по реке на закате: паромы отправляются прямо от ICONSIAM.",
+    "google_rating": null,
+    "price_level": 3,
+    "price_text": "Вход свободный",
+    "hours": "Ежедневно 10:00–22:00",
+    "duration": "2–3 часа",
+    "best_time": "Ближе к вечеру, когда здание подсвечивают",
+    "how_to_get": "Gold Line до станции Charoen Nakhon или бесплатный паром ICONSIAM от пирса Sathorn у BTS Saphan Taksin",
+    "nuances": null,
+    "website": "https://www.iconsiam.com",
+    "instagram": null,
+    "lat": 13.7266,
+    "lng": 100.5103,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ICONSIAM%2013.7266%2C100.5103",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Iconsiam_at_Night_%28II%29.jpg/1280px-Iconsiam_at_Night_%28II%29.jpg",
+        "credit": "Supanut Arunoprayote / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/ICONSIAM_Feb_2019_at_night.jpg/1280px-ICONSIAM_Feb_2019_at_night.jpg",
+        "credit": "BunBn / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Icon-siam-mall-bangkok-thailand.jpg/1280px-Icon-siam-mall-bangkok-thailand.jpg",
+        "credit": "Royal Vacation Co. LTD / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "iconsiam-sunset-cruise"
+    ],
+    "related_title": "Отсюда отправляются круизы",
     "checked": "2026-10",
     "unverified": []
   }
