@@ -1470,7 +1470,12 @@
     "lat": 13.6432565,
     "lng": 100.6756812,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Topgolf%20Megacity%2013.6432565%2C100.6756812",
-    "photos": [],
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Topgolf_megacity_20220821.jpg/1280px-Topgolf_megacity_20220821.jpg",
+        "credit": "DMS WIKI / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
     "checked": "2026-10",
     "unverified": [
       "Цены по промо-предложениям, на 2026 не подтверждены"
