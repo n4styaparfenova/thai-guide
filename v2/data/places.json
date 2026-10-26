@@ -103,6 +103,16 @@
         "url": "data/photos/ojo-1.jpg",
         "credit": "Фото автора",
         "pos": "50% 64%"
+      },
+      {
+        "url": "data/photos/ojo-2.jpg",
+        "credit": "Фото автора",
+        "pos": "50% 55%"
+      },
+      {
+        "url": "data/photos/ojo-3.jpg",
+        "credit": "Фото автора",
+        "pos": "50% 45%"
       }
     ],
     "related": [
