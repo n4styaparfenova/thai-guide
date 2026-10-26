@@ -984,6 +984,11 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Rajadamnern%20Stadium%2013.7576%2C100.5085",
     "photos": [
       {
+        "url": "data/photos/rajadamnern-1.jpg",
+        "credit": "Фото автора",
+        "pos": "50% 52%"
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/RajInfront.jpg/1280px-RajInfront.jpg",
         "credit": "Mynameisfootlong / CC BY 4.0 (Wikimedia Commons)"
       },
@@ -993,8 +998,6 @@
       }
     ],
     "checked": "2026-10",
-    "unverified": [
-      "Шоу с проекцией на потолке — со слов автора"
-    ]
+    "unverified": []
   }
 ]
