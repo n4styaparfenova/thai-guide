@@ -742,12 +742,61 @@
       }
     ],
     "related": [
+      "aether-bkk",
       "lumpini-park"
     ],
-    "related_title": "Рядом",
+    "related_title": "В этом же здании и рядом",
     "checked": "2026-10",
     "unverified": [
       "Бесплатный вход — по описаниям открытия 2025"
+    ]
+  },
+  {
+    "id": "aether-bkk",
+    "city": "bangkok",
+    "name": "AETHER",
+    "name_en": "ÆTHER BKK",
+    "district": "Силом, 44-й этаж Dusit Central Park",
+    "categories": [
+      "bar",
+      "view"
+    ],
+    "tags": [
+      "night",
+      "sunset",
+      "romantic",
+      "instagram"
+    ],
+    "local": true,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": "мой фаворит",
+    "short": "Стильный руфтоп-бар на 44-м этаже с электронной музыкой и видом на 360 градусов",
+    "note": "Стильный руфтоп-бар на 44-м этаже с электронной музыкой и видом на 360 градусов",
+    "description": "Один из моих самых любимых руфтоп-баров. Новое и очень стильное место на 44-м этаже Dusit Central Park: современный дизайн, всё чисто и приятно, играет электронная музыка, а вид открывается на все 360 градусов вокруг Бангкока. Коктейли очень вкусные.\n\nПублика модная, так что одеться лучше стильно.",
+    "tip": "Столик лучше бронировать заранее. Когда я там была, бар только открылся и можно было зайти без брони, но сейчас людей стало заметно больше.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Коктейли примерно 420–460 ฿. Иногда берут вход около 600 ฿, который потом идёт в счёт напитков",
+    "hours": "Ежедневно 17:00–02:00",
+    "duration": "1,5–2 часа",
+    "best_time": "Закат и вечер",
+    "how_to_get": "BTS Sala Daeng или MRT Silom, переход в Dusit Central Park, лифт на 44-й этаж",
+    "nuances": "Одеться лучше стильно: шорты и шлёпанцы точно не подойдут.",
+    "website": "https://aetherbkk.com",
+    "instagram": null,
+    "lat": 13.7284823,
+    "lng": 100.5369435,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=AETHER%20BKK%2013.7284823%2C100.5369435",
+    "photos": [],
+    "related": [
+      "dusit-arun-roof-park"
+    ],
+    "related_title": "В этом же здании",
+    "checked": "2026-10",
+    "unverified": [
+      "Депозит на вход — по одному отзыву",
+      "Сайт aetherbkk.com не открывала"
     ]
   }
 ]
