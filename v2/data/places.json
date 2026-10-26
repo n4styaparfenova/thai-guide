@@ -1796,5 +1796,123 @@
     "unverified": [
       "Цены по агрегаторам, официально не подтверждены"
     ]
+  },
+  {
+    "id": "wat-paknam",
+    "city": "bangkok",
+    "name": "Ват Пакнам и каналы Тонбури",
+    "name_en": "Wat Paknam Phasi Charoen",
+    "district": "Пхаси Чароен, Тонбури",
+    "categories": [
+      "culture"
+    ],
+    "tags": [
+      "free",
+      "instagram"
+    ],
+    "local": true,
+    "hidden_gem": true,
+    "priority": "time",
+    "stamp": "для души",
+    "short": "Храм с 69-метровым золотым Буддой в тихом районе каналов, где нет небоскрёбов",
+    "note": "Храм с 69-метровым золотым Буддой в тихом районе каналов, где нет небоскрёбов",
+    "description": "Тонбури — та часть Бангкока, где почти нет небоскрёбов: узкие улочки, дома на каналах, небольшие храмы и обычная местная жизнь. Над всем этим возвышается 69-метровый золотой сидящий Будда храма Ват Пакнам, одна из самых больших статуй Будды в Таиланде.\n\nРядом стоит белая ступа, а на её пятом этаже находится зелёная стеклянная ступа под расписанным потолком со сценами из жизни Будды. Вход бесплатный, наверх поднимает лифт. После храма стоит погулять по району и прокатиться на лодке по каналам.",
+    "tip": "Приезжай в будни до 9 утра: позже у лифта в ступе собирается очередь. Прогулку на лодке по каналам удобно взять у пирсов рядом с храмом, цену лучше обговорить заранее.",
+    "google_rating": null,
+    "price_level": 1,
+    "price_text": "Вход бесплатный",
+    "hours": "Ежедневно примерно 8:00–18:00",
+    "duration": "2–3 часа вместе с прогулкой по району",
+    "best_time": "Утро в будни",
+    "how_to_get": "MRT Bang Phai, ~10 минут пешком",
+    "nuances": "Закрытые плечи и колени, обувь снимать перед залами.",
+    "website": null,
+    "instagram": null,
+    "lat": 13.721776199999999,
+    "lng": 100.4703579,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Wat%20Paknam%20Phasi%20Charoen%2013.721776199999999%2C100.4703579",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Big_Buddha_at_Wat_Pak_Nam_Phasi_Charoen_Bangkok_Thailand_by_Don_Ramey_Logan.jpg/1280px-Big_Buddha_at_Wat_Pak_Nam_Phasi_Charoen_Bangkok_Thailand_by_Don_Ramey_Logan.jpg",
+        "credit": "Don Ramey Logan / CC BY 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/La_nueva_estupa_de_Wat_Paknam_Bhasicharoen.jpg",
+        "credit": "Pablotorrado / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wat_Paknam_Phasi_Charoen%2CBangkok_%2861%29.jpg/1280px-Wat_Paknam_Phasi_Charoen%2CBangkok_%2861%29.jpg",
+        "credit": "กสิณธร ราชโอรส / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Around_Wat_Paknam_%288349329948%29.jpg/1280px-Around_Wat_Paknam_%288349329948%29.jpg",
+        "credit": "Paul Trafford / CC BY 2.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "Часы работы расходятся",
+      "Лодки у храма — по общим данным"
+    ]
+  },
+  {
+    "id": "asiatique",
+    "city": "bangkok",
+    "name": "Asiatique The Riverfront",
+    "name_en": "Asiatique The Riverfront",
+    "district": "Чароен Крунг, на берегу реки",
+    "categories": [
+      "food",
+      "shopping"
+    ],
+    "tags": [
+      "night",
+      "romantic",
+      "instagram"
+    ],
+    "local": false,
+    "hidden_gem": false,
+    "priority": "time",
+    "stamp": null,
+    "short": "Вечерняя набережная у реки с ресторанами, магазинчиками и колесом обозрения",
+    "note": "Вечерняя набережная у реки с ресторанами, магазинчиками и колесом обозрения",
+    "description": "Большой вечерний комплекс на берегу реки Чао Прайя, построенный на месте старых складов торговой компании. Здесь сотни магазинчиков и ресторанов, променад вдоль воды и 60-метровое колесо обозрения, с которого видно реку и огни города.\n\nХороший вариант для спокойного вечера: погулять по набережной, поужинать с видом на реку и прокатиться на колесе.",
+    "tip": "Удобнее всего добраться на бесплатном пароме от пирса Sathorn у BTS Saphan Taksin: он ходит каждые 15–30 минут примерно с 16:00. Вечером в выходные к нему бывает очередь.",
+    "google_rating": null,
+    "price_level": 2,
+    "price_text": "Вход бесплатный, колесо обозрения около 400–500 ฿",
+    "hours": "Ежедневно 16:00–00:00",
+    "duration": "2–3 часа",
+    "best_time": "Вечер",
+    "how_to_get": "Бесплатный паром от пирса Sathorn (BTS Saphan Taksin) или Grab",
+    "nuances": null,
+    "website": null,
+    "instagram": null,
+    "lat": 13.7046,
+    "lng": 100.5033,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Asiatique%20The%20Riverfront%2013.7046%2C100.5033",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Asiatique%2C_Bangkok_from_Chao_Phraya_River_2.jpg/1280px-Asiatique%2C_Bangkok_from_Chao_Phraya_River_2.jpg",
+        "credit": "Slyronit / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Asiatique_The_Riverfront_at_nignt_08.jpg/1280px-Asiatique_The_Riverfront_at_nignt_08.jpg",
+        "credit": "Abasaa / Public domain (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Asiatique_The_Riverfront_at_nignt_01.jpg/1280px-Asiatique_The_Riverfront_at_nignt_01.jpg",
+        "credit": "Abasaa / Public domain (Wikimedia Commons)"
+      }
+    ],
+    "related": [
+      "iconsiam-sunset-cruise",
+      "iconsiam"
+    ],
+    "related_title": "Тоже на реке",
+    "checked": "2026-10",
+    "unverified": [
+      "Цена колеса обозрения не подтверждена официально"
+    ]
   }
 ]
