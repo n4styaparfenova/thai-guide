@@ -774,6 +774,26 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Dusit%20Arun%20Dusit%20Central%20Park%2013.7287%2C100.5376",
     "photos": [
       {
+        "url": "data/photos/dusit-1.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/dusit-2.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/dusit-3.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/dusit-4.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/dusit-5.jpg",
+        "credit": "Phuket 101"
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_05.jpg/1280px-Dusit_Arun_at_Dusit_Central_Park_%2807-09-2025%29_-_img_05.jpg",
         "credit": "Chainwit. / CC BY 4.0 (Wikimedia Commons)"
       },
