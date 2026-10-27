@@ -582,6 +582,18 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Lumphini%20Park%2013.7314%2C100.5414",
     "photos": [
       {
+        "url": "data/photos/lumpini-1.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/lumpini-2.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/lumpini-3.jpg",
+        "credit": ""
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bangkok_-_49531280958.jpg/1280px-Bangkok_-_49531280958.jpg",
         "credit": "Sergei Gussev / CC BY 2.0 (Wikimedia Commons)"
       },
