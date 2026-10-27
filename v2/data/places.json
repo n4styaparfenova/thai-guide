@@ -1144,6 +1144,14 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=CentralWorld%2013.7466%2C100.5393",
     "photos": [
       {
+        "url": "data/photos/centralworld-1.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/centralworld-2.jpg",
+        "credit": ""
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Central_World_%28I%29.jpg/1280px-Central_World_%28I%29.jpg",
         "credit": "Supanut Arunoprayote / CC BY 4.0 (Wikimedia Commons)"
       },
