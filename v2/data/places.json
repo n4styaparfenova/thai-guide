@@ -650,6 +650,18 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Benjakitti%20Forest%20Park%2013.7291%2C100.5548",
     "photos": [
       {
+        "url": "data/photos/benjakitti-1.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/benjakitti-2.jpg",
+        "credit": "Phuket 101"
+      },
+      {
+        "url": "data/photos/benjakitti-3.jpg",
+        "credit": ""
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Benjakitti_Park_Panorama%2C_Bangkok.jpg/1280px-Benjakitti_Park_Panorama%2C_Bangkok.jpg",
         "credit": "Slyronit / CC BY-SA 4.0 (Wikimedia Commons)"
       },
