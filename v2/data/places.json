@@ -906,7 +906,20 @@
     "lat": 13.73199,
     "lng": 100.5666814,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=TRIBE%20Sky%20Beach%20Club%2013.73199%2C100.5666814",
-    "photos": [],
+    "photos": [
+      {
+        "url": "data/photos/tribe-1.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/tribe-2.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/tribe-3.jpg",
+        "credit": ""
+      }
+    ],
     "checked": "2026-10",
     "unverified": [
       "Доступ к бассейну без депозита — по отзывам может быть закрыт"
