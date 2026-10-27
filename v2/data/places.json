@@ -223,6 +223,10 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=ICONSIAM%20pier%2013.7266%2C100.5103",
     "photos": [
       {
+        "url": "data/photos/cruise-1.jpg",
+        "credit": ""
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Wat_Arun_on_the_sunset.jpg/1280px-Wat_Arun_on_the_sunset.jpg",
         "credit": "Trip.with.taste / CC BY-SA 4.0 (Wikimedia Commons)"
       },
