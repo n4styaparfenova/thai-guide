@@ -708,12 +708,24 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Queen%20Sirikit%20National%20Convention%20Center%2013.7236%2C100.5597",
     "photos": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Queen_Sirikit_National_Convention_Center%2CBangkok_%285%29.jpg/1280px-Queen_Sirikit_National_Convention_Center%2CBangkok_%285%29.jpg",
-        "credit": "กสิณธร ราชโอรส / CC BY-SA 4.0 (Wikimedia Commons)"
+        "url": "data/photos/qsncc-1.jpg",
+        "credit": ""
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/202307_Queen_Sirikit_National_Convention_Center_02.jpg/1280px-202307_Queen_Sirikit_National_Convention_Center_02.jpg",
-        "credit": "Jonashtand / CC BY-SA 4.0 (Wikimedia Commons)"
+        "url": "data/photos/qsncc-2.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/qsncc-3.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/qsncc-4.jpg",
+        "credit": ""
+      },
+      {
+        "url": "data/photos/qsncc-5.jpg",
+        "credit": ""
       }
     ],
     "related": [
