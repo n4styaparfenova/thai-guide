@@ -460,6 +460,10 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Yaowarat%20Road%2013.7398%2C100.5094",
     "photos": [
       {
+        "url": "data/photos/yaowarat-1.jpg",
+        "credit": ""
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yaowarat_at_night_%2832455695783%29.jpg/1280px-Yaowarat_at_night_%2832455695783%29.jpg",
         "credit": "Ninara / CC BY 2.0 (Wikimedia Commons)"
       },
