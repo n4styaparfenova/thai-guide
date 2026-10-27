@@ -550,7 +550,7 @@
   }
 
   // Заголовок нужен только для временной ссылки ngrok: без него вместо данных приходит страница-предупреждение
-  const getJSON = (url, fallback) => fetch(url, { cache: "no-cache", headers: { "ngrok-skip-browser-warning": "1" } }).then((r) => (r.ok ? r.json() : fallback)).catch(() => fallback);
+  const getJSON = (url, fallback) => fetch(url + (url.includes("?") ? "&" : "?") + "t=" + Date.now(), { cache: "no-store", headers: { "ngrok-skip-browser-warning": "1" } }).then((r) => (r.ok ? r.json() : fallback)).catch(() => fallback);
 
   async function init() {
     $app.innerHTML = `<div class="skeleton"></div><div class="skeleton"></div>`;
