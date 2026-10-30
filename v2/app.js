@@ -46,7 +46,7 @@
     { id: "sweets", name: "Сладкое", emoji: "🍰", cats: ["sweets"], c: "#d8c7a6", t: "#161514" },
     { id: "shopping", name: "Шопинг", emoji: "🛍", cats: ["shopping"], c: "#8a7a62" },
     { id: "beach", name: "Пляжи и острова", emoji: "🏝", cats: ["beach"], c: "#2c6e8f" },
-    { id: "daytrip", name: "На день из Бангкока", emoji: "🚗", cats: ["daytrip"], c: "#5b6b3a" },
+    { id: "daytrip", name: "Поездки на день", emoji: "🚗", cats: ["daytrip"], c: "#5b6b3a" },
     { id: "classic", name: "Достопримечательности", emoji: "🛕", cats: ["culture"], c: "#4a4440" },
   ];
   const STAMP_COLORS = {

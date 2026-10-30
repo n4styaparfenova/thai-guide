@@ -2066,5 +2066,554 @@
       "Тема выставки может смениться",
       "Часы ресторана Gaggan не проверены"
     ]
+  },
+  {
+    "city": "phuket",
+    "local": false,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": "https://www.hanumanworldphuket.com",
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "unverified": [
+      "hours",
+      "price_text"
+    ],
+    "stamp": "мой фаворит",
+    "tags": [
+      "night",
+      "romantic"
+    ],
+    "id": "hanuman-world",
+    "name": "Мир Ханумана и Three Monkeys",
+    "name_en": "Hanuman World & Three Monkeys Restaurant",
+    "district": "Вичит, между Пхукет-тауном и Чалонгом",
+    "categories": [
+      "restaurant",
+      "active"
+    ],
+    "priority": "time",
+    "short": "Ресторан в кронах деревьев посреди джунглей с живой музыкой по вечерам",
+    "description": "Мир Ханумана — большой приключенческий парк в джунглях на холмах Пхукета: зиплайны, подвесные мосты, тропа Sky Walk над кронами с панорамой на 360° и спиральные лестницы вокруг деревьев. В 2024 году рядом открылась трасса для люжа: ты съезжаешь вниз на тележке по рельсам длиной около 650 метров через тропический лес. На аттракционы билеты покупаются отдельно, я на них не была, но выглядит всё очень здорово.\n\nА ради чего я езжу сюда — ресторан Three Monkeys. Он построен прямо среди деревьев и выглядит как огромный дом на дереве с видом на джунгли и город. Зон очень много: закрытые, открытые, террасы на разных уровнях, а вечером играет живая музыка. Кухня тайская и европейская, всё вкусно, атмосфера очень приятная.",
+    "tip": "Не садись за первый свободный стол: сначала пройдись по территории и посмотри разные зоны, они все разные по настроению. Лучше приезжать к закату, чтобы застать вид при свете, а потом остаться на живую музыку. На смотровой площадке рядом видно весь город.",
+    "price_level": 3,
+    "price_text": "Ресторан: средний чек выше среднего для Пхукета. Зиплайн от ~1 500 ฿ (10 платформ) до ~3 500 ฿ за комбо-программы, люж отдельно",
+    "hours": "Ресторан ежедневно ~10:00–01:00. Парк с зиплайнами 8:00–18:00",
+    "duration": "2–3 часа",
+    "best_time": "К закату и вечером",
+    "how_to_get": "Только на транспорте: Grab/Bolt из Пхукет-тауна ~15 минут, из Патонга ~30–40 минут. Парковка есть.",
+    "nuances": "Вечером в ресторане бывает много людей, на выходные столик лучше забронировать. На зиплайны бронь нужна заранее, ограничения по возрасту и весу (до 120 кг).",
+    "lat": 7.8767,
+    "lng": 98.351,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Three%20Monkeys%20Restaurant%20Phuket",
+    "note": "Ресторан в кронах деревьев посреди джунглей с живой музыкой по вечерам"
+  },
+  {
+    "city": "phuket",
+    "local": false,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kata_Noi_-_panoramio.jpg/1280px-Kata_Noi_-_panoramio.jpg",
+        "credit": "Jacek Lesniowski / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kata_Noi_beach_%28%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%B0%E0%B8%95%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%29_-_panoramio.jpg/1280px-Kata_Noi_beach_%28%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%B0%E0%B8%95%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%29_-_panoramio.jpg",
+        "credit": "Tuderna / CC BY 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Kata_noi_-_panoramio.jpg/1280px-Kata_noi_-_panoramio.jpg",
+        "credit": "Telgaa / CC BY 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "price_text"
+    ],
+    "stamp": null,
+    "tags": [
+      "sunset"
+    ],
+    "id": "kata-noi",
+    "name": "Ката Ной",
+    "name_en": "Kata Noi Beach",
+    "district": "Юг Пхукета, за пляжем Ката",
+    "categories": [
+      "beach"
+    ],
+    "priority": "time",
+    "short": "Небольшой пляж с чистой водой, куда едут ради спокойного моря и заката",
+    "description": "Ката Ной — небольшой пляж к югу от Каты, отделённый от неё мысом. Он меньше и спокойнее соседей: мягкий белый песок, прозрачная вода, зелёные холмы вокруг. Это один из самых популярных пляжей у тех, кто живёт на Пхукете, и я его тоже советую.\n\nВ сухой сезон море здесь спокойное, видно дно на глубине в несколько метров. У камней в южной части можно поплавать с маской: там встречаются тропические рыбы и кораллы.",
+    "tip": "Приезжай на закат: солнце садится прямо в море. С маской лучше плавать у камней в южном конце пляжа.",
+    "price_level": 1,
+    "price_text": "Бесплатно, лежак с зонтом ~200 ฿",
+    "hours": "Круглосуточно",
+    "duration": "Полдня",
+    "best_time": "Ноябрь–апрель",
+    "how_to_get": "Grab/Bolt из Каты 5 минут, из Патонга ~30 минут. Дорога к пляжу идёт через холм от Каты.",
+    "nuances": "С мая по октябрь здесь сильные волны и течения, следи за красными флагами: в это время купаться опасно.",
+    "lat": 7.8064,
+    "lng": 98.2987,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kata%20Noi%20Beach%20Phuket",
+    "note": "Небольшой пляж с чистой водой, куда едут ради спокойного моря и заката"
+  },
+  {
+    "city": "phuket",
+    "local": false,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "unverified": [
+      "price_text",
+      "lat",
+      "lng"
+    ],
+    "stamp": null,
+    "tags": [
+      "night",
+      "romantic"
+    ],
+    "id": "groov-gastrobar",
+    "name": "Groov Gastrobar",
+    "name_en": "Groov Gastrobar",
+    "district": "Раваи",
+    "categories": [
+      "bar",
+      "restaurant"
+    ],
+    "priority": "long",
+    "short": "Стильный гастробар в Раваи с авторскими коктейлями и диджеем по вечерам",
+    "description": "Гастробар немного в стороне от главной дороги Раваи. Интерьер современный и просторный, со светом и арт-объектами, вокруг которых построено всё пространство. Каждый вечер, даже в будни, играет диджей, но музыка не мешает разговаривать.\n\nЗдесь сильная коктейльная карта: авторские миксы на джине и необычная подача. Из еды стейки, тако с курицей, тартар из лосося, паста и пицца, а на десерт кофейная панна-котта. Я была здесь один раз, место выглядит очень стильно.",
+    "tip": "Хорошее место, чтобы поужинать и остаться на коктейли: приходи ближе к девяти, когда начинает играть диджей.",
+    "price_level": 3,
+    "price_text": "Коктейли ~300–450 ฿, основные блюда ~350–900 ฿",
+    "hours": "Ежедневно 17:00–01:00",
+    "duration": "2–3 часа",
+    "best_time": "Вечер",
+    "how_to_get": "Grab/Bolt из Раваи 5 минут, из Каты ~20 минут. Своя парковка.",
+    "nuances": "В низкий сезон бывает тихо.",
+    "lat": 7.779,
+    "lng": 98.3245,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Groov%20Gastrobar%20Rawai%20Phuket",
+    "note": "Стильный гастробар в Раваи с авторскими коктейлями и диджеем по вечерам"
+  },
+  {
+    "city": "phuket",
+    "local": false,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [],
+    "checked": "2026-10",
+    "unverified": [
+      "lat",
+      "lng"
+    ],
+    "stamp": "на закат",
+    "tags": [
+      "sunset",
+      "instagram"
+    ],
+    "id": "summore-day",
+    "name": "Summore Day Cafe",
+    "name_en": "Summore Day Cafe",
+    "district": "Раваи, мыс Промтеп",
+    "categories": [
+      "cafe"
+    ],
+    "priority": "time",
+    "short": "Многоуровневое кафе на склоне у мыса Промтеп с видом на закат над морем",
+    "description": "Кафе на склоне холма между пляжем Я Нуй и мысом Промтеп, его строили полтора года. Оно спускается по склону несколькими уровнями: внизу кафе с кондиционером, дальше садовые террасы с зонтами, пруд с карпами кои и маленький водопад, а на самом верху крыша с пуфами и видом на море и остров Ко Ман.\n\nСюда лучше приезжать на закат: садишься на одном из уровней, слушаешь живую музыку и смотришь, как солнце садится в море. В меню кофе, матча, завтраки, бургеры, тако, паста, а хит — стейк из блэк ангуса.",
+    "tip": "Приезжай за час-полтора до заката, чтобы занять место на верхнем уровне. Живая музыка по выходным примерно с 14:30 и до заката.",
+    "price_level": 2,
+    "price_text": "Кофе 100–220 ฿, коктейли 320–420 ฿, основные блюда 290–790 ฿",
+    "hours": "Ежедневно 10:00–20:00, кухня до 19:00",
+    "duration": "1,5–2 часа",
+    "best_time": "За час до заката",
+    "how_to_get": "Grab/Bolt из Раваи ~10 минут, из Каты ~20 минут. Кафе чуть ниже парковки мыса Промтеп, у входа своя бесплатная парковка.",
+    "nuances": "Рядом мыс Промтеп, одна из главных смотровых острова, поэтому на закате здесь людно, а туристические группы иногда заходят и в кафе.",
+    "lat": 7.766,
+    "lng": 98.3075,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Summore%20Day%20Cafe%20Phuket",
+    "related": [
+      "kata-noi"
+    ],
+    "related_title": "Рядом",
+    "note": "Многоуровневое кафе на склоне у мыса Промтеп с видом на закат над морем"
+  },
+  {
+    "city": "phuket",
+    "local": false,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": "https://lumephuket.com",
+    "instagram": null,
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Phuket_2019_11.jpg/1280px-Phuket_2019_11.jpg",
+        "credit": "Phuketian.S / CC BY 2.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "price_text"
+    ],
+    "stamp": "must see",
+    "tags": [
+      "romantic",
+      "instagram"
+    ],
+    "id": "lume-royal-marina",
+    "name": "LUME и Royal Phuket Marina",
+    "name_en": "LUME Bistro, Royal Phuket Marina",
+    "district": "Ко Кео, к северу от Пхукет-тауна",
+    "categories": [
+      "restaurant",
+      "cafe"
+    ],
+    "priority": "must",
+    "short": "Яхтенная марина с ресторанами на набережной, которая напоминает Ниццу или Канны",
+    "description": "Royal Phuket Marina — яхтенная гавань на восточном побережье острова с высшим международным стандартом для марин (5 Gold Anchors). Вокруг причала идёт ухоженная набережная, вдоль неё стоят яхты, рестораны, кофейни и бары. Всё это очень напоминает Ниццу или Канны, а не привычный Таиланд.\n\nГлавный ресторан здесь — LUME, бистро у воды со средиземноморской кухней: устрицы, морепродукты, паста с вонголе, профитроли с икрой. Кроме него на набережной есть Solavita Cafe с боулами и тартинами на закваске, азиатский BLUU, пекарня BAKE, кондитерская Les Anges и ещё несколько ресторанов.\n\nОбязательно советую сюда приехать. Особенно хорошо на завтрак: тихо, вода, яхты, и совсем другое настроение, чем на пляжах.",
+    "tip": "Приезжай на завтрак, а потом погуляй вдоль причала. Вечером тоже красиво: марина подсвечивается, а закатный свет над водой особенно мягкий.",
+    "price_level": 3,
+    "price_text": "LUME: завтрак ~300–500 ฿, ужин выше среднего",
+    "hours": "LUME ежедневно 9:00–22:00. Марина открыта круглосуточно, у каждого ресторана свои часы",
+    "duration": "2–3 часа",
+    "best_time": "Утро на завтрак или вечер",
+    "how_to_get": "Grab/Bolt из Пхукет-тауна ~10 минут, из Патонга ~30 минут. Парковка на территории бесплатная.",
+    "nuances": "Марина в стороне от пляжей, купаться здесь негде: это место, чтобы поесть и погулять.",
+    "lat": 7.9633,
+    "lng": 98.3868,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=LUME%20Royal%20Phuket%20Marina",
+    "note": "Яхтенная марина с ресторанами на набережной, которая напоминает Ниццу или Канны"
+  },
+  {
+    "id": "big-buddha-phuket",
+    "city": "phuket",
+    "name": "Большой Будда",
+    "name_en": "Big Buddha Phuket",
+    "district": "Холм Накерд, между Чалонгом и Ката",
+    "categories": [
+      "culture"
+    ],
+    "tags": [
+      "free",
+      "sunset"
+    ],
+    "hidden_gem": false,
+    "short": "45-метровый белый Будда над всем югом Пхукета",
+    "description": "Огромная статуя из белого бирманского мрамора на вершине холма Накерд — её видно почти с любого пляжа юга острова. Отсюда открывается панорама на заливы Чалонг, Ката и Карон. После оползня 2024 года объект закрывали, в марте 2026-го он снова открылся под управлением храма.",
+    "tip": "Добирайся на Grab и сразу закажи машину обратно или договорись с водителем, чтобы подождал: свободных такси наверху мало. На закате вид лучше всего, но последний вход около 17:30.",
+    "google_rating": 4.7,
+    "price_level": 1,
+    "price_text": "Вход бесплатный (приветствуются пожертвования)",
+    "hours": "Ежедневно 9:00–18:00 (последний вход ≈17:30)",
+    "duration": "1 час",
+    "best_time": "Утро до 10:00 или ближе к закрытию",
+    "how_to_get": "Только на транспорте: Grab/Bolt из Чалонга ≈15 минут, из Патонга ≈30–40 минут (≈400–500 ฿). Дорога начинается от Chao Fa West Road, крутой серпантин — на скутере только опытным.",
+    "nuances": "Объект закрывали после оползня 23 августа 2024 года, 3 марта 2026 его снова открыли на ограниченной территории. Перед поездкой проверь, открыт ли подъём, особенно после сильных дождей. Плечи и колени должны быть закрыты, обувь снимают у входа в молельные помещения.",
+    "website": null,
+    "instagram": null,
+    "lat": 7.82752,
+    "lng": 98.31244,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=7.82752,98.31244",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Big_Buddha%2C_Phuket.jpg/1280px-The_Big_Buddha%2C_Phuket.jpg",
+        "credit": "Subhrajyoti07 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg/1280px-Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg",
+        "credit": "CEphoto, Uwe Aranas / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Big_Buddha_-_Phuket.jpg/1280px-Big_Buddha_-_Phuket.jpg",
+        "credit": "Mussi Katz / CC0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ],
+    "note": "45-метровый белый Будда над всем югом Пхукета",
+    "stamp": "must see",
+    "priority": "must",
+    "local": false
+  },
+  {
+    "id": "phuket-old-town",
+    "city": "phuket",
+    "name": "Старый город Пхукета",
+    "name_en": "Phuket Old Town & Lard Yai Sunday Walking Street",
+    "district": "Пхукет-таун",
+    "categories": [
+      "culture",
+      "food",
+      "shopping"
+    ],
+    "tags": [
+      "free",
+      "night"
+    ],
+    "hidden_gem": false,
+    "short": "Пастельные сино-португальские дома, кафе и воскресный рынок",
+    "description": "Исторический центр с разноцветными домами-шопхаусами времён оловянного бума, уличными муралами, китайскими святилищами и десятками кофеен. Улицы Thalang, Dibuk, Krabi и Soi Romanee — главные для прогулки. По воскресеньям вечером Thalang Road превращается в пешеходный рынок Lard Yai с уличной едой, музыкой и сувенирами.",
+    "tip": "Приезжай в воскресенье к 16:00–17:00: погуляй по старому городу при дневном свете, а потом останься на рынок Lard Yai. После 18:00 там очень людно. Обязательно попробуй местную кухню: ми хокиен и о-тао.",
+    "google_rating": 4.5,
+    "price_level": 1,
+    "price_text": "Бесплатно",
+    "hours": "Старый город — круглосуточно (магазины и кафе ≈9:00–18:00); рынок Lard Yai — Вс ≈16:00–22:00",
+    "duration": "2–4 часа",
+    "best_time": "Воскресенье с 16:00; утро будней для фото без толпы",
+    "how_to_get": "Grab/Bolt из Патонга ≈30 минут (≈400–500 ฿). Дешевле — синий сонгтэо от Патонга, Ката или Карона до рынка на Ranong Road (≈30–40 ฿, ходят днём). По воскресеньям машины на Thalang Road не пускают — выходите на соседних улицах.",
+    "nuances": "Многие магазины и музеи закрываются к 17–18 часам. Рынок может не работать в праздники и в сильный дождь.",
+    "website": null,
+    "instagram": null,
+    "lat": 7.88456,
+    "lng": 98.38914,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=7.88456,98.38914",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Phuket_old_town_%2852549766215%29.jpg/1280px-Phuket_old_town_%2852549766215%29.jpg",
+        "credit": "Mussi Katz from Israel / CC0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Buildings_in_Old_Phuket_Town.jpg/1280px-Buildings_in_Old_Phuket_Town.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-04.jpg/1280px-Phuket_Town_Thailand-Murals-in-Phang-Nga-Road-04.jpg",
+        "credit": "CEphoto, Uwe Aranas / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "hours"
+    ],
+    "note": "Пастельные сино-португальские дома, кафе и воскресный рынок",
+    "stamp": "must see",
+    "priority": "must",
+    "local": false
+  },
+  {
+    "id": "freedom-beach",
+    "city": "phuket",
+    "name": "Пляж Фридом",
+    "name_en": "Freedom Beach",
+    "district": "Между Патонгом и Кароном",
+    "categories": [
+      "beach",
+      "nature"
+    ],
+    "tags": [
+      "romantic"
+    ],
+    "hidden_gem": true,
+    "short": "Уединённая бухта с белым песком, куда не ведёт дорога",
+    "description": "Небольшой пляж с мелким белым песком и бирюзовой водой, окружённый джунглями. Дороги к нему нет — только лодка или крутая тропа через лес, поэтому здесь в разы спокойнее, чем на соседнем Патонге. У камней хороший снорклинг, на пляже есть простое кафе.",
+    "tip": "Лодку-лонгтейл бери на южном конце Патонга, лучше компанией: цена за лодку, а не за человека, платить после возвращения. Приезжай с утра, к обеду подходят групповые лодки.",
+    "google_rating": 4.6,
+    "price_level": 2,
+    "price_text": "Лонгтейл туда-обратно ≈1200–1500 ฿ за лодку; при входе по тропе — сбор за проход ≈100–200 ฿/чел",
+    "hours": "Светлое время суток ≈8:00–17:00",
+    "duration": "Полдня",
+    "best_time": "Ноябрь–апрель, утро",
+    "how_to_get": "Лонгтейл с южного конца пляжа Патонг (≈10–15 минут). Альтернатива — тропа от дороги Патонг–Карон: спуск 15–30 минут по крутому лесному склону, обратно тяжелее.",
+    "nuances": "С мая по октябрь из-за волн лодки часто не ходят, купаться опасно. Тропа скользкая после дождя, шлагбаум на подъезде иногда закрыт — уточняйте на месте. Еду и воду лучше взять с собой.",
+    "website": null,
+    "instagram": null,
+    "lat": 7.87483,
+    "lng": 98.27556,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=7.87483,98.27556",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Freedom_beach_-_Karon%2C_Phuket%2C_Thailand_-_panoramio.jpg",
+        "credit": "Bob Phillips / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/20221108_Freedom_Beach_auf_Phuket_%282%29.jpg/1280px-20221108_Freedom_Beach_auf_Phuket_%282%29.jpg",
+        "credit": "Joachim Lutz / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "google_rating",
+      "price_text",
+      "hours"
+    ],
+    "note": "Уединённая бухта с белым песком, куда не ведёт дорога",
+    "stamp": null,
+    "priority": "long",
+    "local": false
+  },
+  {
+    "id": "similan-islands",
+    "city": "phuket",
+    "name": "Симиланские острова",
+    "name_en": "Similan Islands (Mu Koh Similan National Park)",
+    "district": "Пханг-Нга, выезд из Кхао Лака или Пхукета",
+    "categories": [
+      "daytrip",
+      "beach",
+      "nature"
+    ],
+    "tags": [],
+    "local": false,
+    "hidden_gem": false,
+    "short": "Белый песок, гранитные валуны и лучший снорклинг Андамана",
+    "description": "Морской нацпарк из 11 островов в Андаманском море, примерно в 70 км от побережья Кхао Лака. Сюда едут ради прозрачной воды, белых пляжей, черепах и рифов — это одно из лучших мест для снорклинга и дайвинга в Таиланде. Парк открыт только в сухой сезон, ночевать на островах больше нельзя.",
+    "tip": "Советую брать тур с выездом из Кхао Лака: дорога на спидботе короче, а из Пхукета добавляется 1,5–2 часа трансфера.",
+    "note": "Белый песок, гранитные валуны и лучший снорклинг Андамана",
+    "stamp": "must see",
+    "google_rating": null,
+    "price_level": 3,
+    "price_text": "Однодневный тур ~3 000–4 500 ฿ + сбор нацпарка 500 ฿ для иностранцев",
+    "hours": "Сезон 15 октября – 15 мая, с 16 мая по 14 октября парк закрыт",
+    "duration": "Целый день",
+    "best_time": "Декабрь–апрель, самое спокойное море",
+    "how_to_get": "Спидбот из пирса Тхап Ламу (Кхао Лак) ~1–1,5 часа; из Пхукета — трансфер 1,5–2 часа + спидбот",
+    "nuances": "Парк закрывается на сезон дождей (с середины мая до середины октября); в остальное время действует лимит посетителей — тур бронировать заранее",
+    "website": "https://portal.dnp.go.th",
+    "instagram": null,
+    "lat": 8.6578626,
+    "lng": 97.6466734,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Similan%20Islands%20%28Mu%20Koh%20Similan%20National%20Park%29%208.6578626%2C97.6466734",
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Similan_Island_01_%28MK%29.jpg/1280px-Similan_Island_01_%28MK%29.jpg",
+        "credit": "Mathias Krumbholz / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Similan_Islands_Beach.jpg",
+        "credit": "Electrostatico / CC BY-SA 2.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Similan-islands_panorama20060318.jpg/1280px-Similan-islands_panorama20060318.jpg",
+        "credit": "Emha / CC BY-SA 2.5 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "Открытие сезона 15.10.2026 — по туроператорам, официальный приказ DNP не проверен",
+      "Цены туров ориентировочные"
+    ],
+    "priority": "time"
+  },
+  {
+    "city": "phuket",
+    "local": false,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Playa_Maya%2C_Ko_Phi_Phi%2C_Tailandia%2C_2013-08-19%2C_DD_05.JPG/1280px-Playa_Maya%2C_Ko_Phi_Phi%2C_Tailandia%2C_2013-08-19%2C_DD_05.JPG",
+        "credit": "Diego Delso / CC BY-SA 3.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/View_from_the_Ko_Phi_Phi_Don_viewpoint_%28north%29.jpg/1280px-View_from_the_Ko_Phi_Phi_Don_viewpoint_%28north%29.jpg",
+        "credit": "Christophe95 / CC BY-SA 4.0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Playa_Maya%2C_Ko_Phi_Phi%2C_Tailandia%2C_2013-08-19%2C_DD_13.JPG/1280px-Playa_Maya%2C_Ko_Phi_Phi%2C_Tailandia%2C_2013-08-19%2C_DD_13.JPG",
+        "credit": "Diego Delso / CC BY-SA 3.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "price_text"
+    ],
+    "stamp": "must see",
+    "tags": [
+      "instagram"
+    ],
+    "id": "phi-phi-islands",
+    "name": "Острова Пхи-Пхи",
+    "name_en": "Phi Phi Islands",
+    "district": "Андаманское море, ~50 минут на спидботе от Пхукета",
+    "categories": [
+      "daytrip",
+      "beach",
+      "nature"
+    ],
+    "priority": "must",
+    "short": "Скалистые острова с бирюзовой водой, которые объезжают за день на лодке с Пхукета",
+    "description": "Пхи-Пхи — самый популярный морской маршрут с Пхукета. Это группа известняковых островов, которые отвесными скалами поднимаются прямо из бирюзовой воды. Самое известное место — бухта Майя Бэй на Пхи-Пхи Ле, где снимали фильм «Пляж» с Леонардо Ди Каприо.\n\nИз Пхукета сюда ходят однодневные туры на спидботах: за день тебя провозят по нескольким островам и бухтам, останавливаются поплавать с маской, на обед и на пляжи. Обычно в маршрут входят Майя Бэй, Пиле Лагун, Обезьяний пляж, а на обратном пути остров Кхай или Бамбу.",
+    "tip": "В сезон здесь очень много людей, поэтому выбирай туры, которые выходят пораньше, примерно к 8 утра, или небольшие группы и премиум-лодки. Так ты успеешь в Майя Бэй до того, как туда придут большие лодки, и всё будет с комфортом.",
+    "price_level": 3,
+    "price_text": "Тур на спидботе ~1 800–3 500 ฿ + сбор нацпарка ~400 ฿ (уточняй, входит ли он в цену)",
+    "hours": "Туры обычно 7:30–17:00",
+    "duration": "Целый день",
+    "best_time": "Ноябрь–апрель",
+    "how_to_get": "Тур с трансфером из отеля, спидбот от пирсов на востоке Пхукета ~50 минут",
+    "nuances": "Самые людные часы на островах с 10 до 15. В сезон дождей (май–октябрь) море неспокойное, туры отменяют или меняют маршрут. Купаться в самой Майя Бэй запрещено, её закрывают на восстановление на пару месяцев в году.",
+    "lat": 7.7407,
+    "lng": 98.7784,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Phi%20Phi%20Islands",
+    "note": "Скалистые острова с бирюзовой водой, которые объезжают за день на лодке с Пхукета"
+  },
+  {
+    "city": "phuket",
+    "local": false,
+    "hidden_gem": false,
+    "google_rating": null,
+    "website": null,
+    "instagram": null,
+    "photos": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Samet_Nangshe_Viewpoint.jpg/1280px-Samet_Nangshe_Viewpoint.jpg",
+        "credit": "TomMumuPangPangEmma / CC0 (Wikimedia Commons)"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Samet_Nangshe.jpg/1280px-Samet_Nangshe.jpg",
+        "credit": "Kamol2523 / CC BY-SA 4.0 (Wikimedia Commons)"
+      }
+    ],
+    "checked": "2026-10",
+    "unverified": [
+      "price_text",
+      "lat",
+      "lng"
+    ],
+    "stamp": "для души",
+    "tags": [
+      "instagram",
+      "sunset"
+    ],
+    "id": "samet-nangshe",
+    "name": "Самет Нангше",
+    "name_en": "Samet Nangshe Viewpoint",
+    "district": "Пханг-Нга, ~1,5 часа на машине от Пхукета",
+    "categories": [
+      "daytrip",
+      "nature"
+    ],
+    "priority": "long",
+    "short": "Смотровая над заливом Пханг-Нга, откуда видно десятки скал, выступающих из воды",
+    "description": "Самет Нангше — смотровая площадка на холме над заливом Пханг-Нга. Отсюда открывается вид на мангровые заросли и десятки известняковых скал, которые поднимаются прямо из воды. Особенно красиво на рассвете, когда над заливом стоит туман. Это одно из самых инстаграмных мест на юге Таиланда.\n\nЕсли есть время выехать с Пхукета, очень советую сюда съездить, а лучше остаться с ночёвкой. Рядом много отелей с видом на залив. Тот, который все рекомендуют в соцсетях, — Sametnangshe Boutique: номера и виллы на склоне с балконами прямо на скалы. Безумно красиво.",
+    "tip": "Лучше всего остаться на ночь в одном из отелей у смотровой, чтобы встретить рассвет, не выезжая с Пхукета в четыре утра. На смотровую приходи за 40–60 минут до восхода.",
+    "price_level": 1,
+    "price_text": "Вход на смотровую ~30 ฿, подъём на машине-шаттле ~90 ฿ туда-обратно. Sametnangshe Boutique от ~5 000 ฿ за ночь",
+    "hours": "Круглосуточно, лучшее время на рассвете",
+    "duration": "Полдня или с ночёвкой",
+    "best_time": "Рассвет",
+    "how_to_get": "На машине или такси с Пхукета через мост Сарасин, ~1,5 часа. Общественного транспорта нет. Есть туры с Пхукета от ~2 200 ฿.",
+    "nuances": "На смотровую ведёт крутая дорога: снизу ходят пикапы-шаттлы, пешком подниматься долго. В сезон дождей рассвет часто закрыт облаками.",
+    "lat": 8.2617,
+    "lng": 98.4596,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Samet%20Nangshe%20Viewpoint",
+    "related_title": null,
+    "note": "Смотровая над заливом Пханг-Нга, откуда видно десятки скал, выступающих из воды"
   }
 ]
